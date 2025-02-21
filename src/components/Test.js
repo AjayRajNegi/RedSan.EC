@@ -21,7 +21,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-const InputForm = ({ selectedItems }) => {
+const InputForm = ({ selectedItems, bill }) => {
   const [input1, setInput1] = useState("");
   const [input2, setInput2] = useState("");
   const [input3, setInput3] = useState("");
@@ -38,6 +38,7 @@ const InputForm = ({ selectedItems }) => {
         apartmentNo: input2,
         mobileNo: input3,
         items: selectedItems, // Storing selected items
+        bill: bill,
       });
 
       alert("Your order has been placed successfully!");

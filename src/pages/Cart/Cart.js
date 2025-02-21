@@ -8,11 +8,12 @@ const Cart = () => {
     useContext(StoreContext);
   const selectedItems = food_list
     .filter((item) => cartItems[item._id] > 0)
-    .map((item) => item.name);
+    .map((item) => `${item.name} * ${cartItems[item._id]}`);
 
-  const bill = getTotalCartAmount();
+  const bill = getTotalCartAmount() ?? 0;
 
   console.log(bill);
+  console.log(selectedItems);
   return (
     <div className="cart">
       <div className="cart-items">
@@ -65,7 +66,7 @@ const Cart = () => {
               <b>{getTotalCartAmount()}</b>
             </div>
             <div className="mt-5 mb-5 w-full flex flex-col items-center">
-              <InputForm selectedItems={selectedItems} />
+              <InputForm selectedItems={selectedItems} bill={bill} />
             </div>
           </div>
         </div>
