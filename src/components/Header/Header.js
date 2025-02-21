@@ -11,7 +11,7 @@ const Header = () => {
           crafted with the flavour of home.Choose from a diverse menu featuring
           a delectable array of dishes crafted with the flavour of home.
         </p>
-        <button>View Menu</button>
+        <button>Scroll To See Menu</button>
       </div>
     </div>
   );
