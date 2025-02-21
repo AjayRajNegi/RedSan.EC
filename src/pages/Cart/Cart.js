@@ -1,10 +1,18 @@
 import React, { useContext } from "react";
 import "./Cart.css";
 import { StoreContext } from "../../context/StoreContext";
+import InputForm from "../../components/Test";
 
 const Cart = () => {
   const { cartItems, food_list, removeFromCart, getTotalCartAmount } =
     useContext(StoreContext);
+  const selectedItems = food_list
+    .filter((item) => cartItems[item._id] > 0)
+    .map((item) => item.name);
+
+  const bill = getTotalCartAmount();
+
+  console.log(bill);
   return (
     <div className="cart">
       <div className="cart-items">
@@ -25,9 +33,9 @@ const Cart = () => {
                 <div className="cart-items-title cart-items-item">
                   <img src={item.image} />
                   <p>{item.name}</p>
-                  <p>${item.price}</p>
+                  <p>₹{item.price}</p>
                   <p>{cartItems[item._id]}</p>
-                  <p>${item.price * cartItems[item._id]}</p>
+                  <p>₹{item.price * cartItems[item._id]}</p>
                   <p onClick={() => removeFromCart(item._id)} className="cross">
                     x
                   </p>
@@ -48,16 +56,20 @@ const Cart = () => {
             </div>
             <div className="cart-total-details">
               <p>Delivery Fee</p>
-              <p>{2}</p>
+              <p>{0}</p>
             </div>
+
             <div className="cart-total-details">
               <b>Total</b>
-              <b>{getTotalCartAmount() + 2}</b>
+
+              <b>{getTotalCartAmount()}</b>
             </div>
-            <button>PROCEED TO CHECKOUT</button>
+            <div className="mt-5 mb-5 w-full flex flex-col items-center">
+              <InputForm selectedItems={selectedItems} />
+            </div>
           </div>
         </div>
-        <div className="cert-promocode">
+        <div className="cert-promocode hidden">
           <div>
             <p>Enter promo code.</p>
             <div className="cart-promocode-input">
