@@ -7,13 +7,14 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <img src={assets.logo} />
+          <h1 className="text-[30px] md:text-[50px] font-extrabold text-red-500">
+            REDSAN
+          </h1>
           <p>
-            {" "}
             Lorem ipsum is simply dummy text of the printing and typesetting
             industry.
           </p>
-          <div className="footer-social-icons">
+          <div className="footer-social-icons flex">
             <img src={assets.facebook_icon} />
             <img src={assets.twitter_icon} />
             <img src={assets.linkedin_icon} />
@@ -31,14 +32,14 @@ const Footer = () => {
         <div className="footer-content-right">
           <h2>GET IN TOUCH</h2>
           <ul>
-            <li>+1-342-345-213-5462</li>
-            <li>contact@gmail.com</li>
+            <li>9664365954</li>
+            <li>sankalpreddy111@gmail.com</li>
           </ul>
         </div>
       </div>
       <hr></hr>
       <p className="footer-copyright">
-        Copyright 2024 @ Tomato.com - All Rights Reserved.
+        Copyright 2025 @ RedSan- All Rights Reserved.
       </p>
     </div>
   );

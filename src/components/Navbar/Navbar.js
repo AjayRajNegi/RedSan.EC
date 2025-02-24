@@ -6,7 +6,7 @@ function Navbar({ setShowLogin }) {
   const [menu, setMenu] = useState("home");
 
   return (
-    <div className="flex flex-col md:flex-row justify-between items-center py-5 md:px-8 lg:px-12">
+    <div className="sticky bg-white z-[200] top-0 flex flex-col md:flex-row justify-between items-center py-5 md:px-8 lg:px-12">
       <div>
         <Link to="/">
           <p className="text-[30px] md:text-[50px] font-extrabold text-red-500">
