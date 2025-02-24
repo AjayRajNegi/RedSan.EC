@@ -10,10 +10,7 @@ const Footer = () => {
           <h1 className="text-[30px] md:text-[50px] font-extrabold text-red-500">
             REDSAN
           </h1>
-          <p>
-            Lorem ipsum is simply dummy text of the printing and typesetting
-            industry.
-          </p>
+          <p></p>
           <div className="footer-social-icons flex">
             <img src={assets.facebook_icon} />
             <img src={assets.twitter_icon} />

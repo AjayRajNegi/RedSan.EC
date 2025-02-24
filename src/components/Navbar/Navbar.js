@@ -48,12 +48,12 @@ function Navbar({ setShowLogin }) {
             <div className="absolute top-[-8px] right-[-8px] w-[10px] h-[10px] bg-red-500 rounded-full"></div>
           </div>
 
-          <button
+          {/* <button
             onClick={() => setShowLogin(true)}
             className="bg-transparent text-[#49557e] border border-red-500 px-3 md:px-6 py-2 rounded-full cursor-pointer transition duration-300 hover:bg-[#fff4f2] text-sm"
           >
             SignIn
-          </button>
+          </button> */}
         </div>
       </div>
     </div>
