@@ -12,8 +12,8 @@ const Cart = () => {
 
   const bill = getTotalCartAmount() ?? 0;
 
-  console.log(bill);
-  console.log(selectedItems);
+  // console.log(bill);
+  // console.log(selectedItems);
   return (
     <div className="cart">
       <div className="cart-items">

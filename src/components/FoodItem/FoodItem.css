@@ -6,10 +6,10 @@
   transition: 0.3s;
   animation: fadeIn 1s;
 }
-.food-item-image {
-  width: 100%;
-  border-radius: 15px 15px 0 0;
-}
+/* .food-item-image {
+  max-width: 150;
+  max-height: 150;
+} */
 .food-item-info {
   padding: 20px;
 }
