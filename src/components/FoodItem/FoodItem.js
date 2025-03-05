@@ -18,22 +18,22 @@ const FoodItem = ({ id, name, price, description, image, offers }) => {
 
         {!cartItems[id] ? (
           <img
-            className="w-9 absolute bottom-0 right-4 cursor-pointer rounded-full"
+            className="w-7 absolute bottom-0 right-4 cursor-pointer rounded-full"
             onClick={() => addToCart(id)}
             src={assets.add_icon_white}
             alt="+"
           />
         ) : (
-          <div className="absolute bottom-0 right-4 flex items-center gap-2 p-2 rounded-full bg-white">
+          <div className="absolute bottom-0 right-4 flex items-center gap-2 p-1 rounded-full bg-white">
             <img
-              className="w-9 cursor-pointer"
+              className="w-7 cursor-pointer"
               onClick={() => removeFromCart(id)}
               src={assets.remove_icon_red}
               alt="-"
             />
             <p>{cartItems[id]}</p>
             <img
-              className="w-9 cursor-pointer"
+              className="w-7 cursor-pointer"
               onClick={() => addToCart(id)}
               src={assets.add_icon_green}
               alt="+"
@@ -41,12 +41,14 @@ const FoodItem = ({ id, name, price, description, image, offers }) => {
           </div>
         )}
       </div>
-      <div className="p-2">
+      <div className="p-1 ">
         <div className="flex justify-between items-center mb-0">
-          <p className="text-lg font-medium">{name}</p>
+          <p className="md:text-lg text-md font-medium tracking-tight">
+            {name}
+          </p>
           {/* <img className="w-16" src={assets.rating_starts} alt="ratings" /> */}
         </div>
-        <p className="text-gray-500 text-sm">{description}</p>
+        <p className="text-gray-500 text-xs md:text-sm">{description}</p>
         <div className="flex items-center justify-between mt-2">
           <p className="text-tomato text-xl text-red-500 font-medium">
             ₹{price}
