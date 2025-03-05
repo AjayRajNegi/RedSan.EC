@@ -5,8 +5,8 @@ import { menu_list } from "../../assets/assets";
 const ExploreMenu = ({ category, setCategory }) => {
   return (
     <div className="flex flex-col gap-5 mt-5" id="explore-menu">
-      <h1 className="text-2xl font-medium text-gray-900">Explore our menu.</h1>
-      <p className="max-w-[60%] text-gray-500 md:max-w-full md:text-sm">
+      <h1 className="text-4xl font-medium text-gray-900">Explore our menu.</h1>
+      <p className="max-w-[100%] text-gray-500 md:max-w-full text-base">
         Choose from a diverse menu featuring a delectable array of dishes. Our
         mission is to satisfy your cravings and elevate your dining experience,
         one delicious meal at a time.

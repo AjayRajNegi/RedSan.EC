@@ -7,10 +7,11 @@ import Cart from "./pages/Cart/Cart";
 import Footer from "./components/Footer/Footer";
 import LoginPopup from "./components/LoginPopup/LoginPopup";
 import ScrollToTop from "./components/ScrollToTop";
+import PlaceOrder from "./pages/PlaceOrder/PlaceOrder";
 function App() {
   const [showLogin, setShowLogin] = useState(false);
   return (
-    <div className="relative mx-auto w-[90%] md:w-[80%]">
+    <div className="relative mx-auto w-[90%] md:w-[90%]">
       {showLogin ? <LoginPopup setShowLogin={setShowLogin} /> : <></>}
       <div className="App">
         <ScrollToTop />
@@ -18,7 +19,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/cart" element={<Cart />}></Route>
-          {/* <Route path="/order" element={<PlaceOrder />}></Route> */}
+          <Route path="/order" element={<PlaceOrder />}></Route>
         </Routes>
       </div>
       <Footer />

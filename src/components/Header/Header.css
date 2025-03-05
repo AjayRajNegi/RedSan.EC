@@ -2,8 +2,9 @@
   height: 34vw;
   background: url("header_img.png") no-repeat;
   background-size: cover;
+  background-position: center;
   position: relative;
-  border-radius: 50px;
+  border-radius: 0%;
   overflow: hidden;
 }
 .header-contents {

@@ -1,48 +1,6 @@
 import basket_icon from "./basket_icon.png";
-import logo from "./logo.png";
 import header_img from "./header_img.png";
 import search_icon from "./search_icon.png";
-import menu_1 from "./menu_1.png";
-import menu_2 from "./menu_2.png";
-import menu_3 from "./menu_3.png";
-import menu_4 from "./menu_4.png";
-import menu_5 from "./menu_5.png";
-import menu_6 from "./menu_6.png";
-import menu_7 from "./menu_7.png";
-import menu_8 from "./menu_8.png";
-
-// import food_1 from "./food_1.png";
-// import food_2 from "./food_2.png";
-// import food_3 from "./food_3.png";
-// import food_4 from "./food_4.png";
-// import food_5 from "./food_5.png";
-// import food_6 from "./food_6.png";
-// import food_7 from "./food_7.png";
-// import food_8 from "./food_8.png";
-// import food_9 from "./food_9.png";
-// import food_10 from "./food_10.png";
-// import food_11 from "./food_11.png";
-// import food_12 from "./food_12.png";
-// import food_13 from "./food_13.png";
-// import food_14 from "./food_14.png";
-// import food_15 from "./food_15.png";
-// import food_16 from "./food_16.png";
-// import food_17 from "./food_17.png";
-// import food_18 from "./food_18.png";
-// import food_19 from "./food_19.png";
-// import food_20 from "./food_20.png";
-// import food_21 from "./food_21.png";
-// import food_22 from "./food_22.png";
-// import food_23 from "./food_23.png";
-// import food_24 from "./food_24.png";
-// import food_25 from "./food_25.png";
-// import food_26 from "./food_26.png";
-// import food_27 from "./food_27.png";
-// import food_28 from "./food_28.png";
-// import food_29 from "./food_29.png";
-// import food_30 from "./food_30.png";
-// import food_31 from "./food_31.png";
-// import food_32 from "./food_32.png";
 
 import add_icon_white from "./add_icon_white.png";
 import add_icon_green from "./add_icon_green.png";
@@ -61,7 +19,6 @@ import logout_icon from "./logout_icon.png";
 import parcel_icon from "./parcel_icon.png";
 
 export const assets = {
-  logo,
   basket_icon,
   header_img,
   search_icon,
@@ -85,47 +42,57 @@ export const assets = {
 export const menu_list = [
   {
     menu_name: "Snack Items",
-    menu_image: menu_1,
+    menu_image:
+      " https://imgs.search.brave.com/vW61yJi0KCt22NoBMiAskOt2XAWR-xGZC-zhgIM4DcY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tYWxs/a28uc3RvcmUvY2Ru/L3Nob3AvZmlsZXMv/bGF5c2NsYXNzaWNz/YWx0ZWQud2VicD92/PTE3MjM1ODc0OTgm/d2lkdGg9MTk0Ng ",
   },
   {
     menu_name: "Chocolate Items",
-    menu_image: menu_2,
+    menu_image:
+      " https://imgs.search.brave.com/aGOyFKfy1pSyN0PwXHcnwBbrrOm-e5TB-t7QHPOD7k8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFLc3IlMjBZRzVz/TC5fQUNfVUYxMDAw/LDEwMDBfUUw4MF8u/anBn ",
   },
   {
     menu_name: "Drink Items",
-    menu_image: menu_3,
+    menu_image:
+      "https://imgs.search.brave.com/xzqTKsAhb1yExkT3t47MLO1tnjcUXQxqqdnCXSPBRts/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/dGhlY2RuLmluLzM2/NDc3OC9TS1UtMDcw/NV8wLTE3MjEyMjAy/NjIzNTkucG5nP3dp/ZHRoPTYwMCZmb3Jt/YXQ9d2VicA ",
   },
   {
     menu_name: "Ice Cream Items",
-    menu_image: menu_4,
+    menu_image:
+      "https://imgs.search.brave.com/mweFN8juBOv6v3d70pciCyQD2MYDCeXU_mQWYHTZx_4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzA2/MTQvMDQyNS8wMzAy/L3Byb2R1Y3RzL3Nl/bGVjdC1yZWQtdmVs/dmV0LnBuZz92PTE2/NTE1NjgyMzkmd2lk/dGg9MTQ0NQ ",
   },
   {
-    menu_name: "DRYFRUITS ITEMS",
-    menu_image: menu_5,
+    menu_name: "Dry Fruits Items",
+    menu_image:
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/p/e/peri_peri_f.png ",
   },
   {
     menu_name: "Juices",
-    menu_image: menu_6,
+    menu_image:
+      "https://5.imimg.com/data5/SELLER/Default/2024/8/446223071/ZO/AC/YC/111865967/dollin-fruit-juice-with-nata-de-coco.jpg",
   },
   {
     menu_name: "Coffee Items",
-    menu_image: menu_7,
+    menu_image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrgts5ZbbbGB9OTSTYY1Jr6Nb9s6rh1r_ng&s",
   },
   {
     menu_name: "Prime Items",
-    menu_image: menu_8,
+    menu_image: "https://m.media-amazon.com/images/I/41I+oG2dYrL.jpg ",
   },
   {
     menu_name: "Biscuit Items",
-    menu_image: menu_5,
+    menu_image:
+      " https://www.bigbasket.com/media/uploads/p/l/40025055_5-britannia-good-day-pista-badam-cookies.jpg",
   },
   {
     menu_name: "Noodles Items",
-    menu_image: menu_2,
+    menu_image:
+      " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAp3QN83fC0uMqGp07qjHIsMl7JdTEnmn_hA&s",
   },
   {
     menu_name: "Cup Noodles Items",
-    menu_image: menu_1,
+    menu_image:
+      "https://imgs.search.brave.com/7JwSN_MfvloErh46uIQDfrHY6qv6bb4DoXib7U681lQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2Vic2hvcGFwcC5j/b20vc2hvcHMvMTMz/OTMyL2ZpbGVzLzM3/MzAwMjM0MC83MDB4/NzAweDIveW9wb2tr/aS1zd2VldC1zcGlj/eS10b3Bva2tpLTE0/MGcuanBn ",
   },
 ];
 
@@ -483,16 +450,6 @@ export const food_list = [
     offers: "",
   },
   {
-    _id: "36",
-    name: "ALL CHOCOLATE ITEMS",
-    image:
-      " https://imgs.search.brave.com/aGOyFKfy1pSyN0PwXHcnwBbrrOm-e5TB-t7QHPOD7k8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFLc3IlMjBZRzVz/TC5fQUNfVUYxMDAw/LDEwMDBfUUw4MF8u/anBn ",
-    price: 0,
-    description: "Sweet and delicious chocolates, perfect for indulgence.",
-    category: "Snack Items",
-    offers: "",
-  },
-  {
     _id: "38",
     name: "CDN CRACLE",
     image:
@@ -676,7 +633,7 @@ export const food_list = [
     _id: "56",
     name: "CDM DAIRY MILK FAMILY PACK",
     image:
-      "https://www.google.com/imgres?q=dairy%20milk%20family%20pack%20100%20rupees&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61XVq39wuCL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FCadbury-Dairy-Milk-Chocolate-Family%2Fdp%2FB07D6T8QN6&docid=DvOrS5ZP1nvkjM&tbnid=Nzy7zFbXUauKjM&vet=12ahUKEwjbnpDd_t6LAxWEwjgGHcueCVgQM3oECGAQAA..i&w=1500&h=1500&hcb=2&ved=2ahUKEwjbnpDd_t6LAxWEwjgGHcueCVgQM3oECGAQAA ",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFY2jTkBLSG4FMwxVLKtjob7rb_YWoAyg2aCKTToCx9rhMv5jUQCHjxA0TUqfE3tkkTo",
     price: 130,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -707,15 +664,6 @@ export const food_list = [
     name: "CDM FRUIT & NUT",
     image:
       "https://imgs.search.brave.com/Q9TZyokt1tmEVC936_1XksUuzNBmODk704x8ZF23Yws/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YmlnYmFza2V0LmNv/bS9tZWRpYS91cGxv/YWRzL3Avcy8yNjcz/NzdfMTgtY2FkYnVy/eS1kYWlyeS1taWxr/LWZydWl0LW51dC1j/aG9jb2xhdGUtYmFy/LmpwZw ",
-    price: 45,
-    description: "Delicious snack item for any occasion.",
-    category: "Chocolate Items",
-    offers: "",
-  },
-  {
-    _id: "60",
-    name: "CDM KESABLES",
-    image: "  ",
     price: 45,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1220,15 +1168,6 @@ export const food_list = [
     offers: "",
   },
   {
-    _id: "112",
-    name: "ALL DRINKS ITEMS",
-    image: "",
-    price: 0,
-    description: "Delicious snack item for any occasion.",
-    category: "Chocolate Items",
-    offers: "OFFERS",
-  },
-  {
     _id: "113",
     name: "1 LTR KINLEY WATER",
     image:
@@ -1240,7 +1179,7 @@ export const food_list = [
   },
   {
     _id: "114",
-    name: "1 LTR MAAZA CELE",
+    name: "1 LTR MAAZA ",
     image:
       "https://imgs.search.brave.com/UvRaHZJ9Ivs_L7irFd7Pkfvwo_oqCDvOOrZ-HhnN2TY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Z3JvZmVycy5jb20v/Y2RuLWNnaS9pbWFn/ZS9mPWF1dG8sZml0/PXNjYWxlLWRvd24s/cT04NSxtZXRhZGF0/YT1ub25lLHc9NDgw/LGg9NDgwL2FwcC9p/bWFnZXMvcHJvZHVj/dHMvZnVsbF9zY3Jl/ZW4vcHJvXzk3MjUw/LmpwZz90cz0xNjg1/OTgxNTcz ",
     price: 60,
@@ -1250,7 +1189,7 @@ export const food_list = [
   },
   {
     _id: "115",
-    name: "1LTR SPRITE",
+    name: "1 LTR SPRITE",
     image:
       "https://imgs.search.brave.com/xfb9tgEdcP958RFggVWCVsrtBzgVoqbmh9KR2ZfPUP0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9uZXBh/bGdyYW1vZGh5b2cu/c3RvcmUvaW1hZ2Vz/L3Byb2R1Y3RzL1Nw/cml0ZSUyMDFMdHIu/anBn ",
     price: 50,
@@ -1472,7 +1411,7 @@ export const food_list = [
     _id: "138",
     name: "STRAWBERRY CONE",
     image:
-      "https://imgs.search.brave.com/Pai-qGVNO6-WnlnqQOumk5pawjcQpZbYJp08mC9N0zk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFFVHdaVmZUSUwu/anBn https://imgs.search.brave.com/Pai-qGVNO6-WnlnqQOumk5pawjcQpZbYJp08mC9N0zk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFFVHdaVmZUSUwu/anBn ",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxB_coa5zbxpmaQ2163vLmPgqahCUjhLNS6Q&s",
     price: 40,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1531,7 +1470,8 @@ export const food_list = [
   {
     _id: "144",
     name: " BLACKCURRANT FROOTFUL",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuHyrI2F704gonmKPtWJxbRoa6QVMeScyAQ&s",
     price: 50,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1580,7 +1520,8 @@ export const food_list = [
   {
     _id: "149",
     name: "RABDI KULFI CANDY",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzksvVxkIhLeiuJKsd_zR6LOIB9XmTcW8Vw&s",
     price: 400,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1589,7 +1530,8 @@ export const food_list = [
   {
     _id: "150",
     name: "TUTI FRUITY",
-    image: "",
+    image:
+      "https://img.clevup.in/166211/1651666317584_SKU-5386_0.jpeg?width=600&format=webp",
     price: 280,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1598,7 +1540,8 @@ export const food_list = [
   {
     _id: "151",
     name: "CHOCOLATE CHIPS BLACK CURRANT",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaTAuUG7wbMwVlh49_P0ZIPOVchYI66lbUrA&s",
     price: 300,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1607,7 +1550,8 @@ export const food_list = [
   {
     _id: "152",
     name: "AMERICAN NUTS",
-    image: "",
+    image:
+      "https://www.bigbasket.com/media/uploads/p/xxl/40194030-2_2-vadilal-american-nuts-ice-cream.jpg",
     price: 350,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1616,7 +1560,8 @@ export const food_list = [
   {
     _id: "153",
     name: "CRUNCHY BUTTERSCOTCH",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnnbDaVhBif1NfYbD-rxtbl2BNrrNDVa70g&s",
     price: 280,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1625,7 +1570,8 @@ export const food_list = [
   {
     _id: "154",
     name: "ALPHONSO MANGO",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqVcVl1fxWI8yC15amPlhYUXUPU93Hn3Iivg&s",
     price: 300,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1634,7 +1580,8 @@ export const food_list = [
   {
     _id: "155",
     name: "PREMIUM VANILLA",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeU7C-DEGg6MdmEjfRzwtE92qBalCfBnPdw&s",
     price: 115,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1643,7 +1590,8 @@ export const food_list = [
   {
     _id: "156",
     name: "CHOCO BROWNIE PP",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlnzO4Mmp8rBZShPPlOepIu4fIkPETdZyh8w&s",
     price: 320,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1652,7 +1600,8 @@ export const food_list = [
   {
     _id: "157",
     name: "PINEAPPLE",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS43kQ1b7ZBk3fW_Jid-9-5fcVf-iYaJrmjWA&s",
     price: 340,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1665,7 +1614,7 @@ export const food_list = [
       "https://www.jiomart.com/images/product/original/rvyrrfdico/tong-garden-salted-green-peas-500g-pouch-product-images-orvyrrfdico-p593954596-0-202209221932.jpg?im=Resize=(1000,1000) ",
     price: 350,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1675,7 +1624,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/s/a/salted_cashew_nuts_400g_front.png ",
     price: 230,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1685,16 +1634,17 @@ export const food_list = [
       "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBK_tzStw-5-JrSL-teeIYRDYhWyg9NgmoxEogohHCPXZWS7lYMeoqgUCEQrTyGdGEHQIWEH-6KW5lR-darSQ7x19yBsIll4CpqSldSr2yFjyGhMIquSrj ",
     price: 470,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
     _id: "162",
-    name: "TONG GARDEN PREMIMU PEANUTS",
-    image: "",
+    name: "TONG GARDEN PREMIUM PEANUTS",
+    image:
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/s/a/salted_peanute_400g.png",
     price: 150,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1703,7 +1653,7 @@ export const food_list = [
     image: "",
     price: 140,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1713,7 +1663,7 @@ export const food_list = [
       "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSx2Cz7V60F-qKTADfKhtQwzRQoMhbMjj1BvUNHSWDaDZSJTugnC7UmjHUOSRdwfp_E11dtQWcYsfB14BbAM-m9zof5TaE0g3rRBXGb5HBQ60s4fOjwrINpZQ ",
     price: 410,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1723,16 +1673,17 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/m/o/model-salted_almonds_145g_tea_f_.png ",
     price: 370,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
     _id: "166",
     name: "TONG GARDERN ROASTED CALIFORNIA ALMONDS",
-    image: "",
+    image:
+      "https://m.media-amazon.com/images/I/61-w+teon7L._AC_UF1000,1000_QL80_.jpg",
     price: 370,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1742,7 +1693,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/m/i/mint_chutney_f.png ",
     price: 140,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1752,7 +1703,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/p/e/peri_peri_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1762,7 +1713,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/m/e/mexican_peanuts_mockup.png ",
     price: 75,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1772,7 +1723,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/l/e/lemon_spice_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1782,16 +1733,17 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/h/i/hing_jeera_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
     _id: "172",
     name: "TONG GARDERN SPECIAL PISTACHIAS",
-    image: "",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ZewvZaiKtLBMzr7RPaIRKifcrEOB4fptwg&s",
     price: 250,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1801,7 +1753,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/p/e/peri_peri_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1811,7 +1763,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/m/e/mexican_peanuts_mockup.png ",
     price: 75,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1821,7 +1773,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/l/e/lemon_spice_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1831,7 +1783,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/h/i/hing_jeera_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1840,7 +1792,7 @@ export const food_list = [
     image: "",
     price: 250,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1850,7 +1802,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/h/i/hing_jeera_f.png ",
     price: 60,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1859,7 +1811,7 @@ export const food_list = [
     image: "",
     price: 340,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1869,7 +1821,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/5e2d4b023650603788855f1ad52305c6/1/1/11265001203-tong_garden_salted_broad_beans_500g_front.png ",
     price: 340,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1879,7 +1831,7 @@ export const food_list = [
       "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGWkoR_mLnP_kN0njSU0YAGKUTOxqSedqGuqE62wBw008HWVfPBKLvArSFV0vqfWJjFno4PMrgplzJnQWQCImPbQe3kScJDnPkLy9ptRsJF4HnThEJDAKIhw ",
     price: 350,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1889,7 +1841,7 @@ export const food_list = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHUzrOUpWt5igHsT1VInRSFU589uquBo9C4Q&s ",
     price: 730,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1899,7 +1851,7 @@ export const food_list = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEL4NwhLUOQpKIfNzNhD3tv1XzExBW1LkoeQ&s ",
     price: 340,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1909,7 +1861,7 @@ export const food_list = [
       "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/1/1/11265001212_-_model-bbq_broadbeans500g_front.png",
     price: 350,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1919,7 +1871,7 @@ export const food_list = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXPwy5WpQV8Tlmd0ndNgxpeaPkaraVAo2nw&s",
     price: 340,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1929,7 +1881,7 @@ export const food_list = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEL4NwhLUOQpKIfNzNhD3tv1XzExBW1LkoeQ&s",
     price: 730,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1939,7 +1891,7 @@ export const food_list = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_KolRVRx6mjyt0Z5IqRWedgKSo-GTwYDzw&s",
     price: 350,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1949,7 +1901,7 @@ export const food_list = [
       "https://m.media-amazon.com/images/I/51Q6oGpvg+L._AC_UF1000,1000_QL80_.jpg",
     price: 730,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {
@@ -1958,7 +1910,7 @@ export const food_list = [
     image: "https://m.media-amazon.com/images/I/61JqTsR6jtL.jpg",
     price: 0,
     description: "Premium quality dry fruits packed with nutrition.",
-    category: "DRYFRUITS ITEMS",
+    category: "Dry Fruits Items",
     offers: "",
   },
   {

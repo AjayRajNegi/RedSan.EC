@@ -1,10 +1,5 @@
-import {
-  addDoc,
-  doc,
-  setDoc,
-  getFirestore,
-  collection,
-} from "firebase/firestore";
+import { doc, setDoc, getFirestore } from "firebase/firestore";
+import { useNavigate } from "react-router-dom";
 import { initializeApp } from "firebase/app";
 import { useState } from "react";
 
@@ -21,10 +16,25 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
+const currentDate = new Date();
+
+const year = currentDate.getFullYear();
+const month = currentDate.getMonth();
+const day = currentDate.getDay();
+
+const hours = currentDate.getHours();
+const minutes = currentDate.getMinutes();
+const seconds = currentDate.getSeconds();
+
+const date = `${day}-${month}-${year}`;
+const time = `${hours}:${minutes}:${seconds}`;
+
 const InputForm = ({ selectedItems, bill }) => {
   const [input1, setInput1] = useState("");
   const [input2, setInput2] = useState("");
   const [input3, setInput3] = useState("");
+
+  const navigate = useNavigate();
 
   const handleSubmit = async () => {
     if (!input1.trim()) {
@@ -34,14 +44,16 @@ const InputForm = ({ selectedItems, bill }) => {
 
     try {
       await setDoc(doc(db, "orders", input1), {
-        name: input1,
-        apartmentNo: input2,
+        residentID: input1,
+        apartmentName: input2,
         mobileNo: input3,
-        items: selectedItems, // Storing selected items
+        items: selectedItems,
         bill: bill,
+        date: date,
+        time: time,
       });
 
-      alert("Your order has been placed successfully!");
+      navigate("/order");
     } catch (error) {
       console.error("Error adding document: ", error);
     }
@@ -49,25 +61,25 @@ const InputForm = ({ selectedItems, bill }) => {
 
   return (
     <div>
-      <b>Name</b> <br />
+      <b>Resident ID</b> <br />
       <input
         type="text"
-        placeholder="Enter Your Name"
+        placeholder="Enter Your Resident ID"
         className="border-2 p-2 rounded-md md:w-[500px]"
         value={input1}
         onChange={(e) => setInput1(e.target.value)}
       />
       <br />
-      <b>Apartment No.</b> <br />
+      <b>Apartment Name</b> <br />
       <input
         type="text"
-        placeholder="Enter Property Number"
+        placeholder="Enter Property Name"
         className="border-2 p-2 rounded-md md:w-[500px]"
         value={input2}
         onChange={(e) => setInput2(e.target.value)}
       />
       <br />
-      <b>Mobile no.</b> <br />
+      <b>WhatsApp no.</b> <br />
       <input
         type="number"
         placeholder="Enter Your Number"
