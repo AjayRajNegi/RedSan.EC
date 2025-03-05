@@ -1,9 +1,9 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext } from "react";
 import "./FoodDisplay.css";
 import { StoreContext } from "../../context/StoreContext";
 import FoodItem from "../FoodItem/FoodItem";
 import { initializeApp } from "firebase/app";
-import { getFirestore, doc, getDoc } from "firebase/firestore";
+import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyAbY5XvyshMyC7PZbwh-roJf1705Yjn7kI",
@@ -20,30 +20,6 @@ const db = getFirestore(app);
 
 const FoodDisplay = ({ category }) => {
   const { food_list } = useContext(StoreContext);
-  // const [snackData, setSnackData] = useState(null);
-  // useEffect(() => {
-  //   const fetchData = async () => {
-  //     try {
-  //       const docRef = doc(db, "food_lists", "Snack_Items");
-  //       const docSnap = await getDoc(docRef);
-
-  //       if (docSnap.exists()) {
-  //         console.log("Fetched Data:", docSnap.data());
-  //         setSnackData(docSnap.data());
-  //       } else {
-  //         console.log("No such document!");
-  //       }
-  //     } catch (error) {
-  //       console.log("Error", error);
-  //     }
-  //   };
-  //   fetchData();
-  //   console.log(snackData);
-  // }, []);
-
-  // useEffect(() => {
-  //   console.log("Updated snackData:", snackData);
-  // }, [snackData]);
   return (
     <div className="food-display" id="food-display">
       <h2>Top Dishes xd near you.</h2>

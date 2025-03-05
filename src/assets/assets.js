@@ -184,7 +184,7 @@ export const food_list = [
     _id: "6",
     name: "LAYS HNDS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://m.media-amazon.com/images/I/51xWx3EaJFL._SX300_SY300_QL70_FMwebp_.jpg",
     price: 20,
     description: "Crispy and crunchy potato chips with a variety of flavors.",
     category: "Snack Items",
@@ -483,6 +483,16 @@ export const food_list = [
     offers: "",
   },
   {
+    _id: "36",
+    name: "ALL CHOCOLATE ITEMS",
+    image:
+      " https://imgs.search.brave.com/aGOyFKfy1pSyN0PwXHcnwBbrrOm-e5TB-t7QHPOD7k8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFLc3IlMjBZRzVz/TC5fQUNfVUYxMDAw/LDEwMDBfUUw4MF8u/anBn ",
+    price: 0,
+    description: "Sweet and delicious chocolates, perfect for indulgence.",
+    category: "Snack Items",
+    offers: "",
+  },
+  {
     _id: "38",
     name: "CDN CRACLE",
     image:
@@ -526,7 +536,7 @@ export const food_list = [
     _id: "42",
     name: "CDN BUBBLY",
     image:
-      " https://imgs.search.brave.com/W5J4U1gvNQJM_sI1qe40B-BBhdrn_IZdHLwQOT0mYD8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2VzYXJncm9jZXJ5/LmNvbS9pbWFnZXMv/UC9DYWRidXJ5JTIw/RGFpcnklMjBNaWxr/JTIwU2lsayUyMEJ1/YmJseSUyMENob2Nv/bGF0ZSUyMEJhciUy/MC0lMjAxMjAlMjBH/TS5qcGVn",
+      " https://imgs.search.brave.com/W5J4U1gvNQJM_sI1qe40B-BBhdrn_IZdHLwQOT0mYD8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2VzYXJncm9jZXJ5/LmNvbS9pbWFnZXMv/UC9DYWRidXJ5JTIw/RGFpcnklMjBNaWxr/JTIwU2lsayUyMEJ1/YmJseSUyMENob2Nv/bGF0ZSUyMEJhciUy/MC0lMjAxMjAlMjBH/TS5qcGVn ",
     price: 90,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -636,7 +646,7 @@ export const food_list = [
     _id: "53",
     name: "CDM FLOWPACK",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://m.media-amazon.com/images/I/41EVLs1BH4L._SX300_SY300_QL70_FMwebp_.jpg",
     price: 10,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -676,7 +686,7 @@ export const food_list = [
     _id: "57",
     name: "CDM CRACKER",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZ9ouPyYeATQg7kGqmsXxJRehciluw4yX4g&s ",
     price: 45,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -745,7 +755,7 @@ export const food_list = [
     _id: "64",
     name: "5 STAR HIT",
     image:
-      " https://imgs.search.brave.com/PlZQinmnavf0QL-7UkMJ0YYzf3uxaF2Tz7ciWIdF_C4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFaSG9uclJ4bEwu/anBn",
+      "https://imgs.search.brave.com/PlZQinmnavf0QL-7UkMJ0YYzf3uxaF2Tz7ciWIdF_C4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFaSG9uclJ4bEwu/anBn",
     price: 120,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -825,7 +835,7 @@ export const food_list = [
     _id: "73",
     name: "FIVE STAR 40G",
     image:
-      " https://imgs.search.brave.com/RMRwxr6Lh4G4gmjgue_g0g-60iKBs1WGXyFxEU8oswM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aWlt/Zy50aXN0YXRpYy5j/b20vZnAvMS8wMDgv/MTg0LzQwLWdyYW0t/c3dlZXQtYW5kLWRl/bGljaW91cy10YXN0/ZS1zb2Z0ZXItcmVj/dGFuZ3VsYXItNS1z/dGFyLWNob2NvbGF0/ZS0tOTU1LmpwZw ",
+      "https://imgs.search.brave.com/RMRwxr6Lh4G4gmjgue_g0g-60iKBs1WGXyFxEU8oswM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90aWlt/Zy50aXN0YXRpYy5j/b20vZnAvMS8wMDgv/MTg0LzQwLWdyYW0t/c3dlZXQtYW5kLWRl/bGljaW91cy10YXN0/ZS1zb2Z0ZXItcmVj/dGFuZ3VsYXItNS1z/dGFyLWNob2NvbGF0/ZS0tOTU1LmpwZw ",
     price: 20,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -855,7 +865,7 @@ export const food_list = [
     _id: "76",
     name: "CADBURY FUSE",
     image:
-      " https://imgs.search.brave.com/YVRStOyfbIMt4nAfLkOL0uNetY-wIGUGpS8YwNBEmq4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9maWxl/cy5la21jZG4uY29t/LzNiYmRhMS9pbWFn/ZXMvY2FkYnVyeS1m/dXNlLWNob2NvbGF0/ZS1iYXItMjVnLWlu/ZGlhbi1pbXBvcnQt/LTE1MzItcC5qcGc_/dz01NzAmaD05OTk5/JnY9RjY3MTYyMjYt/QUZCMS00QzBFLUJC/ODgtMTg3QUQzQ0FF/MjVB ",
+      "https://imgs.search.brave.com/YVRStOyfbIMt4nAfLkOL0uNetY-wIGUGpS8YwNBEmq4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9maWxl/cy5la21jZG4uY29t/LzNiYmRhMS9pbWFn/ZXMvY2FkYnVyeS1m/dXNlLWNob2NvbGF0/ZS1iYXItMjVnLWlu/ZGlhbi1pbXBvcnQt/LTE1MzItcC5qcGc_/dz01NzAmaD05OTk5/JnY9RjY3MTYyMjYt/QUZCMS00QzBFLUJC/ODgtMTg3QUQzQ0FF/MjVB ",
     price: 40,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -875,7 +885,7 @@ export const food_list = [
     _id: "78",
     name: "PERK",
     image:
-      " https://imgs.search.brave.com/H1PsRTWHjRFnrYqetT-OUYJHqKihFP8WoSrOloTizr0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cXVpY2twYW50cnku/aW4vY2RuL3Nob3Av/cHJvZHVjdHMvY2Fk/YnVyeS1wZXJrLWNo/b2NvbGF0ZS1iYXIt/MTMtZy1xdWljay1w/YW50cnkuanBnP3Y9/MTcxMDUzODQ4NyZ3/aWR0aD0xMjE0 ",
+      "https://imgs.search.brave.com/H1PsRTWHjRFnrYqetT-OUYJHqKihFP8WoSrOloTizr0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cXVpY2twYW50cnku/aW4vY2RuL3Nob3Av/cHJvZHVjdHMvY2Fk/YnVyeS1wZXJrLWNo/b2NvbGF0ZS1iYXIt/MTMtZy1xdWljay1w/YW50cnkuanBnP3Y9/MTcxMDUzODQ4NyZ3/aWR0aD0xMjE0 ",
     price: 10,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -885,7 +895,7 @@ export const food_list = [
     _id: "79",
     name: "OERO CHOCO",
     image:
-      " https://imgs.search.brave.com/APfsacIf6qLY-RnmtHSMpPOsZNA6GeSKa60ihb7kpaE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bWFmcnNlcnZpY2Vz/LmNvbS9zeXMtbWFz/dGVyLXJvb3QvaDVm/L2g1Ny80OTcyNzM1/Mzg4MDYwNi81ODQ4/NDlfbWFpbi5qcGc_/aW09UmVzaXplPTQ4/MA ",
+      "https://imgs.search.brave.com/APfsacIf6qLY-RnmtHSMpPOsZNA6GeSKa60ihb7kpaE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bWFmcnNlcnZpY2Vz/LmNvbS9zeXMtbWFz/dGVyLXJvb3QvaDVm/L2g1Ny80OTcyNzM1/Mzg4MDYwNi81ODQ4/NDlfbWFpbi5qcGc_/aW09UmVzaXplPTQ4/MA ",
     price: 10,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -905,7 +915,7 @@ export const food_list = [
     _id: "81",
     name: "OERO CHOCO 114 G",
     image:
-      " https://imgs.search.brave.com/WSP8jhw7SwzHue0cdrQ-tDldv5D8UyZRNwEjEOKAX1s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFUSEFvbktkVkwu/anBn ",
+      "https://imgs.search.brave.com/WSP8jhw7SwzHue0cdrQ-tDldv5D8UyZRNwEjEOKAX1s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFUSEFvbktkVkwu/anBn ",
     price: 30,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -915,7 +925,7 @@ export const food_list = [
     _id: "82",
     name: "OREO CHOCO XXXL 288G",
     image:
-      " https://imgs.search.brave.com/9hxVaoO0f1tMeLfvOSoFRFuhXYWBoO-HXc-yM3BEc4I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtZXUuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxTDZCSmpsRmNM/Ll9BQ19VTDE2NV9T/UjE2NSwxNjVfLmpw/Zw ",
+      "https://imgs.search.brave.com/9hxVaoO0f1tMeLfvOSoFRFuhXYWBoO-HXc-yM3BEc4I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtZXUuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxTDZCSmpsRmNM/Ll9BQ19VTDE2NV9T/UjE2NSwxNjVfLmpw/Zw ",
     price: 99,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -925,7 +935,7 @@ export const food_list = [
     _id: "83",
     name: "OREO VANILA XXXL JUMBO",
     image:
-      " https://imgs.search.brave.com/0stpMdPs3EiTgRdMyW2NNJ-v-yYSZHQPaSro9QZYIhM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFLOTdpd2tjakwu/anBn ",
+      "https://imgs.search.brave.com/0stpMdPs3EiTgRdMyW2NNJ-v-yYSZHQPaSro9QZYIhM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFLOTdpd2tjakwu/anBn ",
     price: 99,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -935,7 +945,7 @@ export const food_list = [
     _id: "84",
     name: "BOURNVITA 1KG",
     image:
-      " https://imgs.search.brave.com/lvAiY1WnKEd8L973TBygX2AxPk26q6ci9JsalHBcidE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFCLUV0T3NHNkwu/anBn ",
+      "https://imgs.search.brave.com/lvAiY1WnKEd8L973TBygX2AxPk26q6ci9JsalHBcidE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFCLUV0T3NHNkwu/anBn ",
     price: 159,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -944,8 +954,7 @@ export const food_list = [
   {
     _id: "85",
     name: "BOUNVITA 1KG GP",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/61oRJDWrXRL.jpg ",
     price: 159,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -954,8 +963,7 @@ export const food_list = [
   {
     _id: "86",
     name: "BOUNVITA 500+500G JAR",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://www.planethealth.in/image/cache/catalog/10162-500x500.jpg",
     price: 225,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -965,7 +973,7 @@ export const food_list = [
     _id: "87",
     name: "BOUNVITA 500 POUCH",
     image:
-      " https://imgs.search.brave.com/VQ28Mho8zzDuLxEF-dq5Z2exQlZp5ozanJfzqa_tncM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmV0bWVkcy5jb20v/aW1hZ2VzL3Byb2R1/Y3QtdjEvNjAweDYw/MC80MDY0MTUvY2Fk/YnVyeV9ib3VybnZp/dGFfcmVndWxhcl9w/b3VjaF81MDBfZ21f/MC5qcGc ",
+      "https://imgs.search.brave.com/VQ28Mho8zzDuLxEF-dq5Z2exQlZp5ozanJfzqa_tncM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmV0bWVkcy5jb20v/aW1hZ2VzL3Byb2R1/Y3QtdjEvNjAweDYw/MC80MDY0MTUvY2Fk/YnVyeV9ib3VybnZp/dGFfcmVndWxhcl9w/b3VjaF81MDBfZ21f/MC5qcGc ",
     price: 239,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -975,7 +983,7 @@ export const food_list = [
     _id: "88",
     name: "BOUNVITA 750G",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.baskethunt.com/wp-content/uploads/2021/02/bournvita-750-g-0-20210118.jpg",
     price: 239,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -985,7 +993,7 @@ export const food_list = [
     _id: "89",
     name: "BOUNVITA FSM JAR 500 G",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcV0zxKQD-4109P2asJD3y-trtC2H6QWSGg&s",
     price: 280,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -995,7 +1003,7 @@ export const food_list = [
     _id: "90",
     name: "BOUNVITA LIL CHAPMS 500G",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcV0zxKQD-4109P2asJD3y-trtC2H6QWSGg&s",
     price: 349,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1005,7 +1013,7 @@ export const food_list = [
     _id: "91",
     name: "BOUNVITA 75 G POUCH",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.jiomart.com/images/product/original/490005185/bournvita-chocolate-nutrition-drink-70-g-product-images-o490005185-p490005185-0-202501281111.jpg?im=Resize=(420,420)",
     price: 30,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1165,7 +1173,7 @@ export const food_list = [
     _id: "107",
     name: "CORNITOS NACHO SEA SALT150G",
     image:
-      "https:imgs.search.brave.com/ySPSVgK4fNKwGVqhgF4BUE5xFS-_Q8cYrLIhtAYAsDk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hcmlz/by5ibG9iLmNvcmUu/d2luZG93cy5uZXQv/YXJpc28vcnVwbG9h/ZHMvMDkwNTIwMjIt/MzAwMDU1MzYtMl8z/LWNvcm5pdG9zLW5h/Y2hvLWNoaXBzLXNl/YS1zYWx0LmpwZw ",
+      "https://imgs.search.brave.com/ySPSVgK4fNKwGVqhgF4BUE5xFS-_Q8cYrLIhtAYAsDk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hcmlz/by5ibG9iLmNvcmUu/d2luZG93cy5uZXQv/YXJpc28vcnVwbG9h/ZHMvMDkwNTIwMjIt/MzAwMDU1MzYtMl8z/LWNvcm5pdG9zLW5h/Y2hvLWNoaXBzLXNl/YS1zYWx0LmpwZw ",
     price: 60,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1175,7 +1183,7 @@ export const food_list = [
     _id: "108",
     name: "CORNITOS TOMATO MEXICANA150G",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://shop.cornitos.in/cdn/shop/products/Tomato-NONG_300x.jpg?v=1708585284",
     price: 60,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1185,7 +1193,7 @@ export const food_list = [
     _id: "109",
     name: "CORNITOS SWEET CHILLY150G",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://shop.cornitos.in/cdn/shop/products/Sweet-Chili_grande.jpg?v=1708584559 ",
     price: 60,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1195,7 +1203,7 @@ export const food_list = [
     _id: "110",
     name: "CORNITOS TIKKA MASALA150G",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.cornitos.in/cdn/shop/files/8908001017084_1_300x.jpg?v=1723788582 ",
     price: 60,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1205,7 +1213,7 @@ export const food_list = [
     _id: "111",
     name: "CORNITOS CHEESE AND HERBS150G",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeG6pa2aLMLw6lxrYhRCx5mn2Sd9mjvJnvvxp_CPsiJ47E63Og146uGalifEeGvKNw6Q7avpjrSk-ltgxS-U3_1zQ15JZ4cDVYlAmWyJife100o_PSJt5j ",
     price: 60,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1214,8 +1222,7 @@ export const food_list = [
   {
     _id: "112",
     name: "ALL DRINKS ITEMS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 0,
     description: "Delicious snack item for any occasion.",
     category: "Chocolate Items",
@@ -1425,7 +1432,7 @@ export const food_list = [
     _id: "134",
     name: "ALMOND CRUNCH BADABIT",
     image:
-      " https://imgs.search.brave.com/xG-435ws33dRGgTwaXtrDaqvbKN34x2Wze4u8nJcZwI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Z3JvZmVycy5jb20v/Y2RuLWNnaS9pbWFn/ZS9mPWF1dG8sZml0/PXNjYWxlLWRvd24s/cT04NSxtZXRhZGF0/YT1ub25lLHc9NDgw/LGg9NDgwL2FwcC9h/c3NldHMvcHJvZHVj/dHMvbGFyZ2VfaW1h/Z2VzL2pwZWcvMGE1/MDU5OTgtNDg4Yy00/Nzk4LTllY2ItY2U1/NmFjNDVhN2I0Lmpw/Zz90cz0xNzIxMDI3/MzUz ",
+      "https://imgs.search.brave.com/xG-435ws33dRGgTwaXtrDaqvbKN34x2Wze4u8nJcZwI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Z3JvZmVycy5jb20v/Y2RuLWNnaS9pbWFn/ZS9mPWF1dG8sZml0/PXNjYWxlLWRvd24s/cT04NSxtZXRhZGF0/YT1ub25lLHc9NDgw/LGg9NDgwL2FwcC9h/c3NldHMvcHJvZHVj/dHMvbGFyZ2VfaW1h/Z2VzL2pwZWcvMGE1/MDU5OTgtNDg4Yy00/Nzk4LTllY2ItY2U1/NmFjNDVhN2I0Lmpw/Zz90cz0xNzIxMDI3/MzUz ",
     price: 50,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1455,7 +1462,7 @@ export const food_list = [
     _id: "137",
     name: "SHAHI PISTA COOL-KULFI",
     image:
-      " https://imgs.search.brave.com/WDcMSH0fiuPqHttwC0Ved-6nAJj5oxHh6R-PLOxBHmQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3NoeS1w/dWIvMTY2MjExLzE2/NTE2NjYzMDgzMzlf/U0tVLTUzOTlfMC5q/cGVn ",
+      "https://imgs.search.brave.com/WDcMSH0fiuPqHttwC0Ved-6nAJj5oxHh6R-PLOxBHmQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3NoeS1w/dWIvMTY2MjExLzE2/NTE2NjYzMDgzMzlf/U0tVLTUzOTlfMC5q/cGVn ",
     price: 30,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1465,7 +1472,7 @@ export const food_list = [
     _id: "138",
     name: "STRAWBERRY CONE",
     image:
-      " https://imgs.search.brave.com/Pai-qGVNO6-WnlnqQOumk5pawjcQpZbYJp08mC9N0zk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFFVHdaVmZUSUwu/anBn https://imgs.search.brave.com/Pai-qGVNO6-WnlnqQOumk5pawjcQpZbYJp08mC9N0zk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFFVHdaVmZUSUwu/anBn ",
+      "https://imgs.search.brave.com/Pai-qGVNO6-WnlnqQOumk5pawjcQpZbYJp08mC9N0zk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFFVHdaVmZUSUwu/anBn https://imgs.search.brave.com/Pai-qGVNO6-WnlnqQOumk5pawjcQpZbYJp08mC9N0zk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFFVHdaVmZUSUwu/anBn ",
     price: 40,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1524,8 +1531,7 @@ export const food_list = [
   {
     _id: "144",
     name: " BLACKCURRANT FROOTFUL",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 50,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1555,7 +1561,7 @@ export const food_list = [
     _id: "147",
     name: "BPK NATURAL KULFI CANDY",
     image:
-      " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYENnUpJEMvDw5IzLAhNNVkIO2fTIhugIeMWQdpzDB7c-MFX8nKs7fwOjyUyzNVzkLPM ",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYENnUpJEMvDw5IzLAhNNVkIO2fTIhugIeMWQdpzDB7c-MFX8nKs7fwOjyUyzNVzkLPM ",
     price: 240,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1565,7 +1571,7 @@ export const food_list = [
     _id: "148",
     name: "AMERICAN NUTS JAMBO",
     image:
-      " https://imgs.search.brave.com/ptq0gIHFEoycFhsRHM83oncZ-YZjxIsYA3OBu9xA-to/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9qaXRj/by5pbi9jZG4vc2hv/cC9maWxlcy9JY2VD/cmVhbUFtZXJpY2Fu/TnV0c1R1YnMuanBn/P3Y9MTcyNTg3ODQx/OSZ3aWR0aD0xNDQ1 ",
+      "https://imgs.search.brave.com/ptq0gIHFEoycFhsRHM83oncZ-YZjxIsYA3OBu9xA-to/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9qaXRj/by5pbi9jZG4vc2hv/cC9maWxlcy9JY2VD/cmVhbUFtZXJpY2Fu/TnV0c1R1YnMuanBn/P3Y9MTcyNTg3ODQx/OSZ3aWR0aD0xNDQ1 ",
     price: 420,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1574,8 +1580,7 @@ export const food_list = [
   {
     _id: "149",
     name: "RABDI KULFI CANDY",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 400,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1584,8 +1589,7 @@ export const food_list = [
   {
     _id: "150",
     name: "TUTI FRUITY",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 280,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1594,8 +1598,7 @@ export const food_list = [
   {
     _id: "151",
     name: "CHOCOLATE CHIPS BLACK CURRANT",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 300,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1604,8 +1607,7 @@ export const food_list = [
   {
     _id: "152",
     name: "AMERICAN NUTS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 350,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1614,8 +1616,7 @@ export const food_list = [
   {
     _id: "153",
     name: "CRUNCHY BUTTERSCOTCH",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 280,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1624,8 +1625,7 @@ export const food_list = [
   {
     _id: "154",
     name: "ALPHONSO MANGO",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 300,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1634,8 +1634,7 @@ export const food_list = [
   {
     _id: "155",
     name: "PREMIUM VANILLA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 115,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1644,8 +1643,7 @@ export const food_list = [
   {
     _id: "156",
     name: "CHOCO BROWNIE PP",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 320,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1654,8 +1652,7 @@ export const food_list = [
   {
     _id: "157",
     name: "PINEAPPLE",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 340,
     description: "Delicious and refreshing ice cream for all occasions.",
     category: "Ice Cream Items",
@@ -1665,7 +1662,7 @@ export const food_list = [
     _id: "159",
     name: "TONG GARDEN SALTED GREEN PEAS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.jiomart.com/images/product/original/rvyrrfdico/tong-garden-salted-green-peas-500g-pouch-product-images-orvyrrfdico-p593954596-0-202209221932.jpg?im=Resize=(1000,1000) ",
     price: 350,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1675,7 +1672,7 @@ export const food_list = [
     _id: "160",
     name: "TONG GARDEN SALTED CASHEW NUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/s/a/salted_cashew_nuts_400g_front.png ",
     price: 230,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1685,7 +1682,7 @@ export const food_list = [
     _id: "161",
     name: "TONG GARDEN SALTED PARTY  MIX",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBK_tzStw-5-JrSL-teeIYRDYhWyg9NgmoxEogohHCPXZWS7lYMeoqgUCEQrTyGdGEHQIWEH-6KW5lR-darSQ7x19yBsIll4CpqSldSr2yFjyGhMIquSrj ",
     price: 470,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1694,8 +1691,7 @@ export const food_list = [
   {
     _id: "162",
     name: "TONG GARDEN PREMIMU PEANUTS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 150,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1704,8 +1700,7 @@ export const food_list = [
   {
     _id: "163",
     name: "TONG GARDERN CORNITOS POP N CRUNCH",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 140,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1715,7 +1710,7 @@ export const food_list = [
     _id: "164",
     name: "TONG GARDERN ROASTED CASHEWS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSx2Cz7V60F-qKTADfKhtQwzRQoMhbMjj1BvUNHSWDaDZSJTugnC7UmjHUOSRdwfp_E11dtQWcYsfB14BbAM-m9zof5TaE0g3rRBXGb5HBQ60s4fOjwrINpZQ ",
     price: 410,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1725,7 +1720,7 @@ export const food_list = [
     _id: "165",
     name: "TONG GARDERN  CORNITOS ROASTED ALMONDS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/m/o/model-salted_almonds_145g_tea_f_.png ",
     price: 370,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1734,8 +1729,7 @@ export const food_list = [
   {
     _id: "166",
     name: "TONG GARDERN ROASTED CALIFORNIA ALMONDS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 370,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1745,7 +1739,7 @@ export const food_list = [
     _id: "167",
     name: "TONG GARDERN MINT CHUTEEY PEANUTS FRESHLY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/m/i/mint_chutney_f.png ",
     price: 140,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1755,7 +1749,7 @@ export const food_list = [
     _id: "168",
     name: "TONG GARDERN PERI PERI PEANUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/p/e/peri_peri_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1765,7 +1759,7 @@ export const food_list = [
     _id: "169",
     name: "TONG GARDERN MEXICAN STYLE PEANUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/m/e/mexican_peanuts_mockup.png ",
     price: 75,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1775,7 +1769,7 @@ export const food_list = [
     _id: "170",
     name: "TONG GARDERN LEMON SPICE PEANUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/l/e/lemon_spice_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1785,7 +1779,7 @@ export const food_list = [
     _id: "171",
     name: "TONG GARDERN HING JEERA PEANUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/h/i/hing_jeera_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1794,8 +1788,7 @@ export const food_list = [
   {
     _id: "172",
     name: "TONG GARDERN SPECIAL PISTACHIAS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 250,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1805,7 +1798,7 @@ export const food_list = [
     _id: "173",
     name: "TONG GARDERN PERI PERI PEANUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/p/e/peri_peri_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1815,7 +1808,7 @@ export const food_list = [
     _id: "174",
     name: "TONG GARDERN MEXICAN STYLE PEANUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/m/e/mexican_peanuts_mockup.png ",
     price: 75,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1825,7 +1818,7 @@ export const food_list = [
     _id: "175",
     name: "TONG GARDERN LEMON SPICE PEANUTS FRESLY ROASTED",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/l/e/lemon_spice_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1835,7 +1828,7 @@ export const food_list = [
     _id: "176",
     name: "TONG GARDERN HING JEERA PEANUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/h/i/hing_jeera_f.png ",
     price: 45,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1844,8 +1837,7 @@ export const food_list = [
   {
     _id: "177",
     name: "TONG GARDERN SPECIAL PISTACHIAS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 250,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1855,7 +1847,7 @@ export const food_list = [
     _id: "178",
     name: "TONG GARDERN GARLIC PEANUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/h/i/hing_jeera_f.png ",
     price: 60,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1864,8 +1856,7 @@ export const food_list = [
   {
     _id: "179",
     name: "TONG GARDERN SHIPRA CASHEW RISTA PREMIUM CASHEWNETS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 340,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1875,7 +1866,7 @@ export const food_list = [
     _id: "180",
     name: "TONG GARDERN SALTED BROAD BEANS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/5e2d4b023650603788855f1ad52305c6/1/1/11265001203-tong_garden_salted_broad_beans_500g_front.png ",
     price: 340,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1885,7 +1876,7 @@ export const food_list = [
     _id: "181",
     name: "TONG GARDERN PARTY SNACK",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGWkoR_mLnP_kN0njSU0YAGKUTOxqSedqGuqE62wBw008HWVfPBKLvArSFV0vqfWJjFno4PMrgplzJnQWQCImPbQe3kScJDnPkLy9ptRsJF4HnThEJDAKIhw ",
     price: 350,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1895,7 +1886,7 @@ export const food_list = [
     _id: "182",
     name: "TONG GARDERN SALTED CASHEWNUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHUzrOUpWt5igHsT1VInRSFU589uquBo9C4Q&s ",
     price: 730,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1905,7 +1896,7 @@ export const food_list = [
     _id: "183",
     name: "TONG GARDERN SALTED ALMONDS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEL4NwhLUOQpKIfNzNhD3tv1XzExBW1LkoeQ&s ",
     price: 340,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1915,7 +1906,7 @@ export const food_list = [
     _id: "184",
     name: "TONG GARDERN BBQ FLV COATED BROAD BEANS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://shop.tonggarden.co.in/media/catalog/product/cache/121be77833b3d66b0afc1de66210c20a/1/1/11265001212_-_model-bbq_broadbeans500g_front.png",
     price: 350,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1925,7 +1916,7 @@ export const food_list = [
     _id: "185",
     name: "TONG GARDERN SALTED BROAD BEANS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXPwy5WpQV8Tlmd0ndNgxpeaPkaraVAo2nw&s",
     price: 340,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1935,7 +1926,7 @@ export const food_list = [
     _id: "186",
     name: "TONG GARDERN SALTED ALMONDS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEL4NwhLUOQpKIfNzNhD3tv1XzExBW1LkoeQ&s",
     price: 730,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1945,7 +1936,7 @@ export const food_list = [
     _id: "187",
     name: "TONG GARDERN SALTED BBQ FLAV COATED BROAD BEANS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_KolRVRx6mjyt0Z5IqRWedgKSo-GTwYDzw&s",
     price: 350,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1955,7 +1946,7 @@ export const food_list = [
     _id: "188",
     name: "TONG GARDERN SALTED COCKTAIL NUTS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://m.media-amazon.com/images/I/51Q6oGpvg+L._AC_UF1000,1000_QL80_.jpg",
     price: 730,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1964,8 +1955,7 @@ export const food_list = [
   {
     _id: "189",
     name: "TONG GARDERN SALTED PEANUTS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/61JqTsR6jtL.jpg",
     price: 0,
     description: "Premium quality dry fruits packed with nutrition.",
     category: "DRYFRUITS ITEMS",
@@ -1975,7 +1965,7 @@ export const food_list = [
     _id: "191",
     name: "ALO FRUT MOSAMBI",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXvcJaMr_KK9GKHQ0RYgqwJPzC3o-2tX8fw&s",
     price: 60,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -1986,7 +1976,7 @@ export const food_list = [
     _id: "192",
     name: "ALO FRUT LITCHI",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKL4QRagj023C3nLW9qy0Dn_z0LKrahU06A&s",
     price: 60,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -1997,7 +1987,7 @@ export const food_list = [
     _id: "193",
     name: "ALO FRUT ANAAR",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkIus79QpJhOo6cRU9XI_M9ySRTGaMJC6qw&s",
     price: 60,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2007,8 +1997,7 @@ export const food_list = [
   {
     _id: "194",
     name: "NARIYAL PAANI",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 50,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2019,7 +2008,7 @@ export const food_list = [
     _id: "195",
     name: "TENDER  COCONUT WATER 200 ML",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://static.wixstatic.com/media/9843c2_3fadf048280948ee9c766109aed98ab3~mv2.jpeg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/9843c2_3fadf048280948ee9c766109aed98ab3~mv2.jpeg",
     price: 50,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2030,7 +2019,7 @@ export const food_list = [
     _id: "196",
     name: "DOLLIN ORANGE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://5.imimg.com/data5/SELLER/Default/2024/8/446223071/ZO/AC/YC/111865967/dollin-fruit-juice-with-nata-de-coco.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2041,7 +2030,7 @@ export const food_list = [
     _id: "197",
     name: "DOLLIN STRAWBERRY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://5.imimg.com/data5/SELLER/Default/2024/4/412470077/IS/JI/CS/111865967/save-20240422-141655.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2052,7 +2041,7 @@ export const food_list = [
     _id: "198",
     name: "DOLLIN PINEAPPLE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://5.imimg.com/data5/SELLER/Default/2024/4/412474815/QT/GX/QP/111865967/save-20240422-141651.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2063,7 +2052,7 @@ export const food_list = [
     _id: "199",
     name: "AMUL KOOL KESAR",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.jiomart.com/images/product/original/491582577/amul-kool-kesar-flavoured-milk-180-ml-bottle-product-images-o491582577-p491582577-0-202203152258.jpg?im=Resize=(1000,1000)",
     price: 25,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2074,7 +2063,7 @@ export const food_list = [
     _id: "200",
     name: "AMUL KOOL ELAICHI",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xl/40175691_4-amul-kool-elaichi.jpg",
     price: 25,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2084,8 +2073,7 @@ export const food_list = [
   {
     _id: "201",
     name: "AMUL KOOL BADAM",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/71FFhHAQgVL.jpg",
     price: 25,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2096,7 +2084,7 @@ export const food_list = [
     _id: "202",
     name: "AMUL MANGO SHAKERS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/l/40012986_3-amul-kool-milk-shake-mango.jpg",
     price: 25,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2107,7 +2095,7 @@ export const food_list = [
     _id: "203",
     name: "PAPER  BOAT GUAVA MIXED",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/414651_2-paper-boat-swing-juicier-drink-yummy-guava.jpg",
     price: 10,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2118,7 +2106,7 @@ export const food_list = [
     _id: "204",
     name: "PAPER BOAT LUSH LYCHEE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/414650_2-paper-boat-swing-juicier-drink-lush-lychee.jpg",
     price: 10,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2129,7 +2117,7 @@ export const food_list = [
     _id: "205",
     name: "PAPER BORT SWING LUSH LYCHEE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/414650_2-paper-boat-swing-juicier-drink-lush-lychee.jpg",
     price: 20,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2139,8 +2127,7 @@ export const food_list = [
   {
     _id: "206",
     name: "JOINER PINEAPPLE",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://storage.googleapis.com/shy-pub/319551/1694952047980_1.jpeg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2151,7 +2138,7 @@ export const food_list = [
     _id: "207",
     name: "JOINER STARWBERRY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/l/40089015_1-joiner-juice-with-nata-de-coco-strawberry.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2162,7 +2149,7 @@ export const food_list = [
     _id: "208",
     name: "JOINER LYCHEE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40089014_1-joiner-juice-with-nata-de-coco-lychee.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2173,7 +2160,7 @@ export const food_list = [
     _id: "209",
     name: "JOINER MANGO",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/l/40089016_1-joiner-juice-with-nata-de-coco-mango.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2184,7 +2171,7 @@ export const food_list = [
     _id: "210",
     name: "JOINER STARWBERRY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/l/40089015_1-joiner-juice-with-nata-de-coco-strawberry.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2195,7 +2182,7 @@ export const food_list = [
     _id: "211",
     name: "JOINER LYCHEE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40089014_1-joiner-juice-with-nata-de-coco-lychee.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2206,7 +2193,7 @@ export const food_list = [
     _id: "212",
     name: "JOINER MANGO",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/l/40089016_1-joiner-juice-with-nata-de-coco-mango.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2217,7 +2204,7 @@ export const food_list = [
     _id: "213",
     name: "JOINER GRAPE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40089012_1-joiner-juice-with-nata-de-coco-grape.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2228,7 +2215,7 @@ export const food_list = [
     _id: "214",
     name: "JOINER ORANGE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40089017_1-joiner-juice-with-nata-de-coco-orange.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2239,7 +2226,7 @@ export const food_list = [
     _id: "215",
     name: "JOINER CANTAOUPE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYneeR-812HIXcHyBwvOoee4qz-ZaFnHob9A&s",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2250,7 +2237,7 @@ export const food_list = [
     _id: "216",
     name: "JOINER ORANGE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40089017_1-joiner-juice-with-nata-de-coco-orange.jpg",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2261,7 +2248,7 @@ export const food_list = [
     _id: "217",
     name: "JOINER POMEGRANATE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://store.bechofy.in/images/tryst_com_usr/ProductImages/325956-Joiner%20Pomegranate%203.webp",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2272,7 +2259,7 @@ export const food_list = [
     _id: "218",
     name: "JOINER PEACH",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_ncTrRiM-_DZBq62HHmvMeKs8kXVfMj-rg&s",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2283,7 +2270,7 @@ export const food_list = [
     _id: "219",
     name: "JOINER BLACKCURRANT",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRqatIhgJfJy_KMmcjQzKsfWIsbR972lrlw&s",
     price: 70,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2294,7 +2281,7 @@ export const food_list = [
     _id: "220",
     name: "CAVIN S ROSE LASSI",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/1204346-2_1-cavins-rose-lassi.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2305,7 +2292,7 @@ export const food_list = [
     _id: "221",
     name: "CAVIN S COLD COFFEE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40227598-2_2-cavins-cold-coffee-immunity-booster-chilled-latte.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2316,7 +2303,7 @@ export const food_list = [
     _id: "222",
     name: "CAVIN S VANILLA",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_s2-XmwrU4CcPUuvIhS_CzDUOZplhQXixQ&s",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2326,8 +2313,7 @@ export const food_list = [
   {
     _id: "223",
     name: "CAVIN S STRAWBERRY",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51rkjvXIQ4L.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2338,7 +2324,7 @@ export const food_list = [
     _id: "224",
     name: "CAVIN S BELGIAN CHOCOLATE MILK SHAKE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTbVq_04IvZbwCbUztOEa6-REK6ZGTaLqWjg&s",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2349,7 +2335,7 @@ export const food_list = [
     _id: "225",
     name: "CAVIN S CHOCOLATE MILK SHAKE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/1207041-2_3-cavins-milkshake-chocolate.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2359,8 +2345,7 @@ export const food_list = [
   {
     _id: "226",
     name: "AMUL MASTI",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/71WnRjJeV0L.jpg",
     price: 15,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2371,7 +2356,7 @@ export const food_list = [
     _id: "227",
     name: "AMUL LASSI SOURCE OF CALCIUM",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyh7JXL-ulPkjLrqHdtub1xSEpQmT3Be08gw&s",
     price: 25,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2382,7 +2367,7 @@ export const food_list = [
     _id: "228",
     name: "LAHORI ZEERA",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShuC6xNd10ZKz8WQJcJmoy8v8KPuZrdARKOg&s",
     price: 10,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2393,7 +2378,7 @@ export const food_list = [
     _id: "229",
     name: "TENDO TENDER COCONUT WATER",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStRwagxlaHak5AZTdCnTLqAx6V6TNSuFnyXg&s",
     price: 45,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2404,7 +2389,7 @@ export const food_list = [
     _id: "230",
     name: "HERSHEY S COOKIES N CREAME",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/l/1202879-2_1-hersheys-milk-shake-cookies-creme.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2414,8 +2399,7 @@ export const food_list = [
   {
     _id: "231",
     name: "HERSHEY  S COOKIES VANILLA ICE CREAME",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51I22drGLTL.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2425,8 +2409,7 @@ export const food_list = [
   {
     _id: "232",
     name: "HERSHEY S COOKIES COFFEE MOCHA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2436,8 +2419,7 @@ export const food_list = [
   {
     _id: "233",
     name: "HERSHEY S COFFE MOCHA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51N6zGpba7L.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2447,8 +2429,7 @@ export const food_list = [
   {
     _id: "234",
     name: "HERSHEY S CASHEW BUTTER SCPTECH",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51HQPU-z-kL.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2459,7 +2440,7 @@ export const food_list = [
     _id: "236",
     name: "HERSHEY S STRAWBERRY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://m.media-amazon.com/images/I/51cRMPD38NL._AC_UF1000,1000_QL80_.jpg",
     price: 40,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2470,7 +2451,7 @@ export const food_list = [
     _id: "238",
     name: "SOFIT SOYA CHOCOLATE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78DQffxpIOyCceJIu-K6D2xLTEJ5XEtWgbQ&s",
     price: 35,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2480,8 +2461,7 @@ export const food_list = [
   {
     _id: "239",
     name: "SOFIT SOYA VANILLA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51ZlosXupYL.jpg",
     price: 35,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2491,8 +2471,7 @@ export const food_list = [
   {
     _id: "240",
     name: "SOFIT SOYA NATURALLY SUGER DRINK",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/513miHtdgqL.jpg",
     price: 35,
     description:
       "Refreshing and nutritious fruit juices for a healthy lifestyle.",
@@ -2503,7 +2482,7 @@ export const food_list = [
     _id: "242",
     name: "NESCAFE CHOCO LATTE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40333861_1-nescafe-choco-latte-dairy-based-beverage.jpg",
     price: 75,
     description: "Rich and aromatic coffee products for a perfect brew.",
     category: "Coffee Items",
@@ -2513,7 +2492,7 @@ export const food_list = [
     _id: "243",
     name: "NESCAFE CLASSIC LATTE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40333862_1-nescafe-classic-latte-dairy-based-beverage.jpg",
     price: 75,
     description: "Rich and aromatic coffee products for a perfect brew.",
     category: "Coffee Items",
@@ -2523,7 +2502,7 @@ export const food_list = [
     _id: "244",
     name: "NESCAFE CARAMEL LATTE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40333863_1-nescafe-caramel-latte-dairy-based-beverage.jpg",
     price: 75,
     description: "Rich and aromatic coffee products for a perfect brew.",
     category: "Coffee Items",
@@ -2533,7 +2512,7 @@ export const food_list = [
     _id: "245",
     name: "NESCAFE ICED FRAPPLE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwiyMl_rAPQ1HHgidcM0PX9d_kvuJ-Qi68fg&s",
     price: 50,
     description: "Rich and aromatic coffee products for a perfect brew.",
     category: "Coffee Items",
@@ -2543,7 +2522,7 @@ export const food_list = [
     _id: "246",
     name: "NESCAFE KOPI LATTE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrgts5ZbbbGB9OTSTYY1Jr6Nb9s6rh1r_ng&s",
     price: 50,
     description: "Rich and aromatic coffee products for a perfect brew.",
     category: "Coffee Items",
@@ -2553,7 +2532,7 @@ export const food_list = [
     _id: "247",
     name: "SLEEPY OWL COFFEE SALTED",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBm33PiT12RW_s0zRqdSMTTVu9YOwrD5kKQ&s",
     price: 125,
     description: "Rich and aromatic coffee products for a perfect brew.",
     category: "Coffee Items",
@@ -2562,8 +2541,7 @@ export const food_list = [
   {
     _id: "248",
     name: "TATA COFFEE GOLD COL",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 125,
     description: "Rich and aromatic coffee products for a perfect brew.",
     category: "Coffee Items",
@@ -2573,7 +2551,7 @@ export const food_list = [
     _id: "255",
     name: "OCEAN FRUIT DRINK PINK GUAVA FRUIT",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40075240_5-ocean-fruit-water-pink-guava-flavour.jpg ",
     price: 60,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2583,7 +2561,7 @@ export const food_list = [
     _id: "256",
     name: "OCEAN FRUIT DRINK STRABEERY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://oceanbeverages.in/cdn/shop/files/NPD_Listing_Cards_Strawberry_Lime-01-05.jpg?v=1720614370 ",
     price: 60,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2593,7 +2571,7 @@ export const food_list = [
     _id: "257",
     name: "OCEAN FRUIT DRINK PEACH & PASSION",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYRQfjkSVCOAewOpcYRZwb3_Uc_mKQZ4RGQ&s ",
     price: 60,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2602,8 +2580,7 @@ export const food_list = [
   {
     _id: "258",
     name: "OCEAN FRUIT DRINK HIGH IN VITAMINC C",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 60,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2613,7 +2590,7 @@ export const food_list = [
     _id: "259",
     name: "OCEAN FRUIT DRINK ORANGE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://oceanbeverages.in/cdn/shop/products/Orange_Lime24-Card01.jpg?v=1737966556 ",
     price: 60,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2622,8 +2599,7 @@ export const food_list = [
   {
     _id: "260",
     name: "OCEAN FRUIT DRINK MANGO",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/610mK3ASINL.jpg ",
     price: 60,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2633,7 +2609,7 @@ export const food_list = [
     _id: "261",
     name: "OCEAN FRUIT APPLE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHu3V5jqnbHfNcxm1Q5rS-d0nowCz_MMLZ3Q&s ",
     price: 60,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2643,7 +2619,7 @@ export const food_list = [
     _id: "262",
     name: "GRANOS REFRESH KOM BOOCHA",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://m.media-amazon.com/images/I/61zSRoIawQL._AC_UF1000,1000_QL80_.jpg ",
     price: 120,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2653,7 +2629,7 @@ export const food_list = [
     _id: "263",
     name: "GRANOS REFRESH MANGO",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://5.imimg.com/data5/SELLER/Default/2024/5/415686883/MZ/KZ/VP/83659255/616cnem8vel-sl1007.jpg ",
     price: 120,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2663,7 +2639,7 @@ export const food_list = [
     _id: "264",
     name: "GRANOS REFRESH PEACH",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://5.imimg.com/data5/SELLER/Default/2024/5/415400737/ZM/ZB/ND/83659255/51biag5vcjl-sl1200.jpg ",
     price: 99,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2673,7 +2649,7 @@ export const food_list = [
     _id: "265",
     name: "GRANOS REFRESH LIME& GINGER",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://5.imimg.com/data5/SELLER/Default/2024/5/415682822/NY/CZ/KW/83659255/61avermxxxl.jpg ",
     price: 0,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2682,8 +2658,7 @@ export const food_list = [
   {
     _id: "266",
     name: "GRANOS REFRESH MIX BERRIES",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/61J+8l6zpsL.jpg ",
     price: 120,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2692,8 +2667,7 @@ export const food_list = [
   {
     _id: "267",
     name: "MONIN PASSION FRUIT",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/41rpIsgr01L.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2702,8 +2676,7 @@ export const food_list = [
   {
     _id: "268",
     name: "MONIN PEACH",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/61kT5k-TwnL.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2712,8 +2685,7 @@ export const food_list = [
   {
     _id: "269",
     name: "MONIN CURACAO TRIPLE SEC",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51vKyxydXEL.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2722,8 +2694,7 @@ export const food_list = [
   {
     _id: "270",
     name: "MONIN LEMON TEA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/61Hm2ZYsAYS.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2732,8 +2703,7 @@ export const food_list = [
   {
     _id: "271",
     name: "MONIN VANILLA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/61lCKODrsQL.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2743,7 +2713,7 @@ export const food_list = [
     _id: "272",
     name: "MONIN STRAWBERRY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://m.media-amazon.com/images/I/71QlBAxkKFL._AC_UF350,350_QL80_.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2752,8 +2722,7 @@ export const food_list = [
   {
     _id: "273",
     name: "MONIN KIWI",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51j5jMx+R7L.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2762,8 +2731,7 @@ export const food_list = [
   {
     _id: "274",
     name: "MONIN WATERMELON",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/413RWCh-0vL.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2773,7 +2741,7 @@ export const food_list = [
     _id: "275",
     name: "MONIN GRENNADINE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWOJNxl8oUO7YKfy835B0QDjyK07EL9GYIuw&s ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2782,8 +2750,7 @@ export const food_list = [
   {
     _id: "276",
     name: "MONIN MOJTO MINT",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/71AqSOkxMJS.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2792,8 +2759,7 @@ export const food_list = [
   {
     _id: "277",
     name: "MONINN SPICED JAMMUN",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51mXOetBqML.jpg ",
     price: 425,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2802,8 +2768,7 @@ export const food_list = [
   {
     _id: "278",
     name: "PRIME ICE POP",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/41I+oG2dYrL.jpg ",
     price: 450,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2812,8 +2777,7 @@ export const food_list = [
   {
     _id: "279",
     name: "PRIME ORANGE MANGO",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 450,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2822,8 +2786,7 @@ export const food_list = [
   {
     _id: "280",
     name: "PRIME STRAWBERRY WATERMELON",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/51-ZyYlZpUL.jpg ",
     price: 450,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2833,7 +2796,7 @@ export const food_list = [
     _id: "281",
     name: "PRIME TROPICAL PUNCH",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdL1la3YnRz52o8Y64lSLisPU_e82rKhsjw&s ",
     price: 450,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2842,8 +2805,7 @@ export const food_list = [
   {
     _id: "282",
     name: "PRIME BLUE RASBERRY",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "https://m.media-amazon.com/images/I/611jxRpbI2L.jpg ",
     price: 450,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2853,7 +2815,7 @@ export const food_list = [
     _id: "283",
     name: "PRIME LEMON LIME",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://m.media-amazon.com/images/I/81yFUhgqrTL._AC_UF350,350_QL80_.jpg ",
     price: 450,
     description: "High-quality prime items for everyday needs.",
     category: "Prime Items",
@@ -2863,7 +2825,7 @@ export const food_list = [
     _id: "285",
     name: "MCVITIES HOBNONS OAT COOKIES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      "https://www.bigbasket.com/media/uploads/p/xxl/40279439_1-mcvities-hobnobs-oat-cookies-with-chocochips-0-maida-trans-fat-free.jpg ",
     price: 75,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2873,7 +2835,7 @@ export const food_list = [
     _id: "286",
     name: "MACVITIES DIGESTIVE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/l/40091997_5-mcvities-digestive.jpg ",
     price: 65,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2883,7 +2845,7 @@ export const food_list = [
     _id: "287",
     name: "DARK FANTASY CHOCO FILLS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/1202645_10-sunfeast-dark-fantasy-choco-fills.jpg ",
     price: 40,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2893,7 +2855,7 @@ export const food_list = [
     _id: "288",
     name: "MCVITIES HOBNONS OAT COOKIES CHOCO CHIPS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/40279439_1-mcvities-hobnobs-oat-cookies-with-chocochips-0-maida-trans-fat-free.jpg ",
     price: 75,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2903,7 +2865,7 @@ export const food_list = [
     _id: "289",
     name: "MACVITIES THINS MILK CHOCOLATE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/l/40315795_1-mcvities-thins-milk-chocolate-coated-biscuits.jpg ",
     price: 349,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2913,7 +2875,7 @@ export const food_list = [
     _id: "290",
     name: "MACVITIES DIGESTIVE 0% ADDED SUGAR",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xl/40091998_5-mcvities-digestive-no-added-sugar.jpg ",
     price: 60,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2922,8 +2884,7 @@ export const food_list = [
   {
     _id: "291",
     name: "MCVITIES GINGER NUTS",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/61DEf-K2iLL.jpg ",
     price: 60,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2932,8 +2893,7 @@ export const food_list = [
   {
     _id: "292",
     name: "BONN FREE KICK",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/61bU1o0ySiL.jpg ",
     price: 20,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2943,7 +2903,7 @@ export const food_list = [
     _id: "293",
     name: "BONN MARIE DAY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/278322_6-mcvities-marie-biscuits.jpg ",
     price: 30,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2953,7 +2913,7 @@ export const food_list = [
     _id: "294",
     name: "MCVITIES MARIE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/278322_6-mcvities-marie-biscuits.jpg",
     price: 40,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2963,7 +2923,7 @@ export const food_list = [
     _id: "295",
     name: "BRITANNIA MARIE GOLD",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/71ALNdI21XL._AC_UF1000,1000_QL80_.jpg",
     price: 40,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2972,8 +2932,7 @@ export const food_list = [
   {
     _id: "296",
     name: "BONN SALTINO",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/51uCfjp0BqL.jpg",
     price: 20,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2982,8 +2941,7 @@ export const food_list = [
   {
     _id: "297",
     name: "BONN TWIN BITE SWEET & SALTY",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/41pzPvUoywL.jpg",
     price: 20,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -2993,7 +2951,7 @@ export const food_list = [
     _id: "298",
     name: "UNIBIC PISTA BADAM",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/l/30004680_3-unibic-cookies-pista-badam.jpg",
     price: 60,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3003,7 +2961,7 @@ export const food_list = [
     _id: "299",
     name: "BRITANNIA GOOD DAY CASHEW COOKIES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xl/270729_21-britannia-good-day-cashew-cookies.jpg",
     price: 45,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3013,7 +2971,7 @@ export const food_list = [
     _id: "300",
     name: "BRITANNIA GOOD DAY PISTA BADAM",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/l/40025055_5-britannia-good-day-pista-badam-cookies.jpg",
     price: 55,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3022,8 +2980,7 @@ export const food_list = [
   {
     _id: "301",
     name: "BRITANNIA GOOD DAY BUTTER COOKIES",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/61FsBt3SB4L.jpg",
     price: 25,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3033,7 +2990,7 @@ export const food_list = [
     _id: "302",
     name: "BRITANNIA GOOD DAY BUTTER COOKIES 200G",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/71ZwZ57hIuL._AC_UF1000,1000_QL80_.jpg",
     price: 40,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3043,7 +3000,7 @@ export const food_list = [
     _id: "303",
     name: "SUNFEAST MOMS MAGIC CASHEW ALMOND",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/810ZSi0ry+L._AC_UF1000,1000_QL80_.jpg",
     price: 45,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3053,7 +3010,7 @@ export const food_list = [
     _id: "304",
     name: "SUNFEAST MOMS MAGIC FRUIT MILK",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/1212758-2_4-sunfeast-moms-magic-fruit-milk-biscuits.jpg",
     price: 50,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3063,7 +3020,7 @@ export const food_list = [
     _id: "305",
     name: "BONN JEERA BITE BISCUITE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/40114382_4-bonn-jeera-bite-biscuits.jpg",
     price: 20,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3073,7 +3030,7 @@ export const food_list = [
     _id: "306",
     name: "UNIBIC PISTA BUTTER COOKIES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/267156_2-unibic-cookies-butter.jpg",
     price: 69,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3083,7 +3040,7 @@ export const food_list = [
     _id: "307",
     name: "BONN BUTTER BONN BUTTER COOKIES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://5.imimg.com/data5/SELLER/Default/2021/6/LI/EY/SX/132335911/buttter-bonn-pista-front.png",
     price: 20,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3093,7 +3050,7 @@ export const food_list = [
     _id: "308",
     name: "AMERICANA CASHEW COOKIES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsxobc2glg-3B5uXdAXg8g0mfcoJdZxOv4g&s",
     price: 20,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3103,7 +3060,7 @@ export const food_list = [
     _id: "309",
     name: "MCVITIES DIGESTIVE 0% ADDED SUGAR",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/40201913_5-mcvities-digestive-biscuits-no-added-sugar.jpg",
     price: 30,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3113,7 +3070,7 @@ export const food_list = [
     _id: "310",
     name: "MCVITIES DIGESTIVE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xl/100500640_6-mcvities-digestive-biscuits.jpg",
     price: 25,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3122,8 +3079,7 @@ export const food_list = [
   {
     _id: "311",
     name: "AMERICANA BUTTER COOKIES",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/51vLe52xQcL.jpg",
     price: 30,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3133,7 +3089,7 @@ export const food_list = [
     _id: "312",
     name: "AMERICAN COCONUT COOKIES CRUNCH COOKIES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/40114380_6-americana-coconut-cookies.jpg",
     price: 30,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3143,7 +3099,7 @@ export const food_list = [
     _id: "313",
     name: "MCVITIES BOURBON DELIGHT  1+1",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/71VmVthxrjL._AC_UF1000,1000_QL80_.jpg",
     price: 30,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3153,7 +3109,7 @@ export const food_list = [
     _id: "314",
     name: "MCVITIES WHOLEWHEAT MARIE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/40019825_9-mcvities-marie-biscuits-whole-wheat.jpg",
     price: 20,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3163,7 +3119,7 @@ export const food_list = [
     _id: "315",
     name: "BONN MILK BISCUITS",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://5.imimg.com/data5/SELLER/Default/2023/10/355496059/ZY/EO/WK/121896931/70g-bonn-milk-biscuit.jpg",
     price: 20,
     description: "Crunchy and tasty biscuits for a delightful snack.",
     category: "Biscuit Items",
@@ -3172,8 +3128,7 @@ export const food_list = [
   {
     _id: "317",
     name: "MANCHURIAN INSTANT NOODLES",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/711dBYEvBZL.jpg",
     price: 80,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3183,7 +3138,7 @@ export const food_list = [
     _id: "318",
     name: "CHINGS SCHEZWAN NOODLES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.jiomart.com/images/product/original/490544386/ching-s-secret-schezwan-instant-noodles-240-g-product-images-o490544386-p490544386-0-202203150440.jpg?im=Resize=(1000,1000)",
     price: 80,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3193,7 +3148,7 @@ export const food_list = [
     _id: "319",
     name: "TOP RAMEN FIERY CHILLY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/40052971_3-top-ramen-noodles-fiery-chilli.jpg ",
     price: 60,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3202,8 +3157,7 @@ export const food_list = [
   {
     _id: "320",
     name: "TOP RAMEN MASALA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/61OazUCuPnL.jpg",
     price: 53,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3212,8 +3166,7 @@ export const food_list = [
   {
     _id: "321",
     name: "TOP RAMEN CHICKEN NOODLES",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/81dx6ACnsJS.jpg",
     price: 80,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3223,7 +3176,7 @@ export const food_list = [
     _id: "322",
     name: "TOP RAMEN ATTA MASALA NOODLES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/30007742_9-top-ramen-atta-noodles-masala.jpg",
     price: 100,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3232,8 +3185,7 @@ export const food_list = [
   {
     _id: "323",
     name: "CHINGS VEG HAKKA NOODLES",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/61dDUsuwCdL.jpg",
     price: 30,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3242,8 +3194,7 @@ export const food_list = [
   {
     _id: "324",
     name: "MAGGI MASALA VEG ATTA NOODLES",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/81ajfTsEMRL.jpg",
     price: 112,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3253,7 +3204,7 @@ export const food_list = [
     _id: "325",
     name: "MAGGI 6 PACK   WORTH 15RS MAGGI FREE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://5.imimg.com/data5/SELLER/Default/2022/8/RX/DT/PE/123515069/nestle-maggi-masala-noodles-500x500.jpeg",
     price: 90,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3263,7 +3214,7 @@ export const food_list = [
     _id: "326",
     name: "MAGGI 8 PACK",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://5.imimg.com/data5/SELLER/Default/2022/2/ZG/IZ/NF/88828317/8-pack-maggi-noodles.jpg",
     price: 120,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3273,7 +3224,7 @@ export const food_list = [
     _id: "327",
     name: "MAGGI 4 PACK",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAp3QN83fC0uMqGp07qjHIsMl7JdTEnmn_hA&s",
     price: 60,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3282,8 +3233,7 @@ export const food_list = [
   {
     _id: "328",
     name: "MAGGI HAPPY BOWL YUMMY MASALA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/71-xqY4U8BL.jpg",
     price: 80,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3293,7 +3243,7 @@ export const food_list = [
     _id: "329",
     name: "MAGGI HAPPY BOWL TWISTY TOMATO",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/71idzF2R6IL._AC_UF1000,1000_QL80_.jpg",
     price: 80,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3303,7 +3253,7 @@ export const food_list = [
     _id: "330",
     name: "WAI WAI HAKKA VEG NOODLES",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/l/20004322_6-wai-wai-oriental-hakka-noodles-veg.jpg",
     price: 50,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3313,7 +3263,7 @@ export const food_list = [
     _id: "331",
     name: "WAI WAI X PRESS NOODELS 6 PACK",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xl/40094636_6-wai-wai-express-instant-masala-delight-noodles.jpg",
     price: 99,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3323,7 +3273,7 @@ export const food_list = [
     _id: "332",
     name: "TOP RAMEN CURRY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/310178_4-top-ramen-noodles-curry-veg.jpg",
     price: 100,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3333,7 +3283,7 @@ export const food_list = [
     _id: "333",
     name: "KOKA MASALA",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/514Nlb2mPvL._AC_UF1000,1000_QL80_.jpg",
     price: 55,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3343,7 +3293,7 @@ export const food_list = [
     _id: "334",
     name: "KOKA MI GORENG",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/51vmmfsvppL._AC_UF1000,1000_QL80_.jpg",
     price: 65,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3353,7 +3303,7 @@ export const food_list = [
     _id: "335",
     name: "KOKA VEGETABLE",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/81YSa6GRN0L._AC_UF1000,1000_QL80_.jpg",
     price: 55,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3363,7 +3313,7 @@ export const food_list = [
     _id: "336",
     name: "KOKA CURRY",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejTRvqQ4q87xXvfUW9TkRCVHZxyVfgo72lg&s",
     price: 55,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3373,7 +3323,7 @@ export const food_list = [
     _id: "337",
     name: "KOKA LOBSTER",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/71UzrTcRIUL._AC_UF1000,1000_QL80_.jpg",
     price: 55,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3383,7 +3333,7 @@ export const food_list = [
     _id: "338",
     name: "KOKA PRAWN",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://m.media-amazon.com/images/I/71UzrTcRIUL._AC_UF1000,1000_QL80_.jpg",
     price: 55,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3392,8 +3342,7 @@ export const food_list = [
   {
     _id: "339",
     name: "BULDAK CHEESE HOT CHICKEN FLAVOR RAMEN",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/8105ECEutPL.jpg",
     price: 150,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3403,7 +3352,7 @@ export const food_list = [
     _id: "340",
     name: "BULDAK HOT CHICKEN FLAVOUR RAMEN",
     image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+      " https://www.bigbasket.com/media/uploads/p/xxl/40142718_2-samyang-ramen-noodles-hot-chicken-flavour.jpg ",
     price: 150,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3412,8 +3361,7 @@ export const food_list = [
   {
     _id: "341",
     name: "SHIN RAMYUN NOODLES SOUP",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 129,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3422,8 +3370,7 @@ export const food_list = [
   {
     _id: "342",
     name: "BULDAK KIMCHI HOT CHICKEN FLAVOUR",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/91Bs+-i07SL.jpg ",
     price: 150,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3432,8 +3379,7 @@ export const food_list = [
   {
     _id: "343",
     name: "BULDAK HOT CHICKEN FLAVOUR RAMEN 3X SPICY",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/81l7+9oI3hL.SL1500.jpg ",
     price: 150,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3442,7 +3388,7 @@ export const food_list = [
   {
     _id: "344",
     name: "BULDAK CARBONARA HOT CHICKEN",
-    image: " ",
+    image: " https://m.media-amazon.com/images/I/81aA7+Q+JEL.SL1500.jpg ",
     price: 150,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3461,8 +3407,7 @@ export const food_list = [
   {
     _id: "346",
     name: "SAMYANG RAMEN SPICY",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 130,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3621,8 +3566,7 @@ export const food_list = [
   {
     _id: "362",
     name: "KOREAN HOT SPICY",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: " https://m.media-amazon.com/images/I/81aA7+Q+JEL._SL1500_.jpg ",
     price: 55,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3712,7 +3656,7 @@ export const food_list = [
     _id: "371",
     name: "CHINGS MANCHURIAN",
     image:
-      "https:imgs.search.brave.com/xLCA2XDtqqT69kBrSpcUxpr5HqQGYz9MOLPsqhusNtM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE2Q2pqQ2wrMUwu/anBn ",
+      "https://imgs.search.brave.com/xLCA2XDtqqT69kBrSpcUxpr5HqQGYz9MOLPsqhusNtM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE2Q2pqQ2wrMUwu/anBn ",
     price: 20,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3732,7 +3676,7 @@ export const food_list = [
     _id: "373",
     name: " CHING SINGAPORE CURRY ",
     image:
-      " https://imgs.search.brave.com/f9yK7EQZlvBKl_X-CUZqyi2VIz25KzGNr_OseMGFabs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFNckJBZndrZkwu/anBn ",
+      "https://imgs.search.brave.com/f9yK7EQZlvBKl_X-CUZqyi2VIz25KzGNr_OseMGFabs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFNckJBZndrZkwu/anBn ",
     price: 20,
     description: "Tasty and flavorful noodles for a quick meal.",
     category: "Noodles Items",
@@ -3752,7 +3696,7 @@ export const food_list = [
     _id: "376",
     name: "BULDAK HOT CHICKEN FLAVOUR",
     image:
-      " https://imgs.search.brave.com/Tf-nvZLYvQsYgBcunahI8jnvtGtxE_Fz7E3Ph-5rV4o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90dWt0/dWttYXJ0LmNvLnVr/L2Nkbi9zaG9wL3By/b2R1Y3RzL0lNR183/NzM0XzMwMHguanBn/P3Y9MTYyNTA1OTYz/OA ",
+      "https://imgs.search.brave.com/Tf-nvZLYvQsYgBcunahI8jnvtGtxE_Fz7E3Ph-5rV4o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90dWt0/dWttYXJ0LmNvLnVr/L2Nkbi9zaG9wL3By/b2R1Y3RzL0lNR183/NzM0XzMwMHguanBn/P3Y9MTYyNTA1OTYz/OA ",
     price: 180,
     description: "Convenient and delicious cup noodles for a quick meal.",
     category: "Cup Noodles Items",
@@ -3821,8 +3765,7 @@ export const food_list = [
   {
     _id: "383",
     name: "YU INDORI POHA",
-    image:
-      "https://media.istockphoto.com/id/1409329028/vector/no-picture-available-placeholder-thumbnail-icon-illustration-design.jpg?s=612x612&w=0&k=20&c=_zOuJu755g2eEUioiOUdz_mHKJQJn-tDgIAhQzyeKUQ=",
+    image: "",
     price: 65,
     description: "Convenient and delicious cup noodles for a quick meal.",
     category: "Cup Noodles Items",

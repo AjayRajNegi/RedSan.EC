@@ -1,16 +1,15 @@
 import React, { useContext } from "react";
-import "./FoodItem.css";
 import { assets } from "../../assets/assets";
 import { StoreContext } from "../../context/StoreContext";
 
 const FoodItem = ({ id, name, price, description, image, offers }) => {
   const { cartItems, addToCart, removeFromCart } = useContext(StoreContext);
   return (
-    <div className="food-item">
-      <div className="food-item-img-container">
-        <div className="max-w-[300px] max-h-[300px] object-contain flex items-center justify-center overflow-hidden">
+    <div className="w-full mx-auto rounded-lg shadow-md transition duration-300 animate-fadeIn p-1">
+      <div className="relative">
+        <div className="object-contain flex items-center justify-center overflow-hidden mx-auto">
           <img
-            className="food-item-image max-h-[300px] max-w-[300px]"
+            className="max-h-[150px] max-w-[150px]"
             src={image}
             alt="food_img"
             loading="lazy"
@@ -19,22 +18,22 @@ const FoodItem = ({ id, name, price, description, image, offers }) => {
 
         {!cartItems[id] ? (
           <img
-            className="add"
-            onClick={() => {
-              addToCart(id);
-            }}
+            className="w-9 absolute bottom-0 right-4 cursor-pointer rounded-full"
+            onClick={() => addToCart(id)}
             src={assets.add_icon_white}
             alt="+"
           />
         ) : (
-          <div className="food-item-counter">
+          <div className="absolute bottom-0 right-4 flex items-center gap-2 p-2 rounded-full bg-white">
             <img
+              className="w-9 cursor-pointer"
               onClick={() => removeFromCart(id)}
               src={assets.remove_icon_red}
               alt="-"
             />
             <p>{cartItems[id]}</p>
             <img
+              className="w-9 cursor-pointer"
               onClick={() => addToCart(id)}
               src={assets.add_icon_green}
               alt="+"
@@ -42,15 +41,17 @@ const FoodItem = ({ id, name, price, description, image, offers }) => {
           </div>
         )}
       </div>
-      <div className="food-item-info">
-        <div className="food-item-name-rating">
-          <p>{name}</p>
-          <img src={assets.rating_starts} alt="ratings" />
+      <div className="p-2">
+        <div className="flex justify-between items-center mb-0">
+          <p className="text-lg font-medium">{name}</p>
+          {/* <img className="w-16" src={assets.rating_starts} alt="ratings" /> */}
         </div>
-        <p className="food-item-desc">{description}</p>
-        <div className="flex items-center justify-between">
-          <p className="food-item-price">₹{price}</p>
-          {offers > 0 ? <p>{offers}%OFF</p> : <></>}
+        <p className="text-gray-500 text-sm">{description}</p>
+        <div className="flex items-center justify-between mt-2">
+          <p className="text-tomato text-xl text-red-500 font-medium">
+            ₹{price}
+          </p>
+          {offers > 0 && <p className="text-green-500">{offers}% OFF</p>}
         </div>
       </div>
     </div>
