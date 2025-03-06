@@ -1,7 +1,7 @@
-import React, { useContext } from "react";
 import "./Cart.css";
-import { StoreContext } from "../../context/StoreContext";
+import React, { useContext } from "react";
 import InputForm from "../../components/Test";
+import { StoreContext } from "../../context/StoreContext";
 
 const Cart = () => {
   const { cartItems, food_list, removeFromCart, getTotalCartAmount } =

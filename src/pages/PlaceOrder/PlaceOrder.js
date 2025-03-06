@@ -1,5 +1,5 @@
-import React, { useContext } from "react";
 import "./PlaceOrder.css";
+import React, { useContext } from "react";
 import { StoreContext } from "../../context/StoreContext";
 const PlaceOrder = () => {
   const { cartItems, food_list, getTotalCartAmount } = useContext(StoreContext);
@@ -11,7 +11,11 @@ const PlaceOrder = () => {
   return (
     <>
       <div className="cart">
+        <h1 className="text-5xl mb-4 font-semibold text-center">
+          Your order has been placed.✨
+        </h1>
         <div className="cart-items">
+          <h2 className="text-2xl mb-6 font-semibold">Your Orders:</h2>
           <div className="cart-items-title">
             <p>Items</p>
             <p>Title</p>
