@@ -44,14 +44,29 @@ const InputForm = ({ selectedItems, bill }) => {
 
     try {
       await setDoc(doc(db, "orders", input1), {
-        residentID: input1,
-        apartmentName: input2,
+        name: input1,
+        location: input2,
         mobileNo: input3,
         items: selectedItems,
         bill: bill,
         date: date,
         time: time,
       });
+      fetch("http://localhost:5000/api/send-sms", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: input1,
+          location: input2,
+          mobileNo: input3,
+          items: selectedItems,
+          bill: bill,
+          date: date,
+          time: time,
+        }),
+      })
+        .then((res) => res.json())
+        .then((data) => console.log(data));
 
       navigate("/order");
     } catch (error) {
@@ -61,19 +76,19 @@ const InputForm = ({ selectedItems, bill }) => {
 
   return (
     <div>
-      <b>Resident ID</b> <br />
+      <b>Name</b> <br />
       <input
         type="text"
-        placeholder="Enter Your Resident ID"
+        placeholder="Enter Your Name"
         className="border-2 p-2 rounded-md md:w-[500px]"
         value={input1}
         onChange={(e) => setInput1(e.target.value)}
       />
       <br />
-      <b>Apartment Name</b> <br />
+      <b>Location</b> <br />
       <input
         type="text"
-        placeholder="Enter Property Name"
+        placeholder="Enter location"
         className="border-2 p-2 rounded-md md:w-[500px]"
         value={input2}
         onChange={(e) => setInput2(e.target.value)}
